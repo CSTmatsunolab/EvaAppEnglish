@@ -1,0 +1,24 @@
+!foreground_color="0,0,0"
+!foreground_anim="fadein,0,2,%0,0,0,0%%"
+!wait="2"
+!background_sprite="taiikukan"
+!charaimg_sprite="polygon"="agura_man"
+!charaimg_pos="polygon"="-0.9,0.2,0"
+!charaimg_size="polygon"="3.8,5.8,1"
+&あなた「お腹いっぱいだ……！！」
+
+&!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
+!charaimg_pos="polygon2"="1.2,-0.5,0"
+!charaimg_size="polygon2"="4.3,6.3,1"
+&ひな「食欲ないの？」
+&あなた「そうなんだ。あまり動いてないし……今日はいいかな」
+&!charaimg_sprite="polygon"="onigirikomattaman"
+!charaimg_pos="polygon"="-1.5,-0.1,0"
+&あなた「余った食事、どうしようかな……でも」
+&あなた「食中毒が怖いし、もったいないけど捨ててしまおう」
+&ひな「そうだね。特に夏場だと、保管が大変だから」
+&ひな「なるべく食べて、無理だったら捨てるという選択もいいと思うよ。加熱も万能ってわけじゃないし」
+&!charaimg_sprite="polygon"="kanashinaki_man"
+&あなた「しかもこれ、少し食べかけだから……」
+&!charaimg_sprite="polygon2"="bikkuri_woman"
+&ひな「え！ それはかなり保管難しいよ……」

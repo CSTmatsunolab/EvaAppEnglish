@@ -1,0 +1,33 @@
+!foreground_color="0,0,0"
+!foreground_anim="fadein,0,2,%0,0,0,0%%"
+!wait="2"
+!background_sprite="taiikukan"
+!charaimg_sprite="polygon"="komatta_man2"
+!charaimg_pos="polygon"="-0.9,0.2,0"
+!charaimg_size="polygon"="3.8,5.8,1"
+&あなた「お腹すいたな……」
+
+&!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
+!charaimg_pos="polygon2"="1.2,-0.5,0"
+!charaimg_size="polygon2"="4.3,6.3,1"
+&ひな「あれ、その非常食って消費期限切れてない？」
+&あなた「そうだけど、せっかく持ってきたからもったいなくて……」
+&!charaimg_sprite="polygon"="onigirikomattaman"
+!charaimg_pos="polygon"="-1.5,-0.1,0"
+&あなた「でも、消費期限の場合は危ないんだよね」
+&!charaimg_sprite="polygon2"="pose_gutspose_woman"
+&ひな「そのとおり！」
+&ひな「賞"味"期限ならともかく、 消"費"期限の場合は注意が必要だよ」
+&ひな「消費期限が設定された食品は劣化が早いから、腐ったりカビが生えたり、」
+&ひな「健康を害する可能性が高くなるんだって」
+&あなた「消費期限が切れた食品はなるべく食べずに廃棄したほうがいいね。」
+
+&!charaimg_sprite="polygon"="smartphone_blank_man"
+!charaimg_pos="polygon"="-1,0.2,0"
+&あなた「あ、でも水の場合はまた別に注意が必要みたいだね」
+&!charaimg_sprite="polygon2"="bikkuri_woman"
+&ひな「そうなの？」
+&あなた「水の場合は賞味期限が書かれているんだけど、味に関する内容じゃなくて、内容量が減ってしまう目安の期限らしい」
+&あなた「適正に保存され未開封なら、賞味期限をかなり過ぎたものでも安全性に問題ないんだって」
+&!charaimg_sprite="polygon2"="pose_gutspose_woman"
+&ひな「そうなんだ！ 水の保管に気をつければ、安全なんだね。」

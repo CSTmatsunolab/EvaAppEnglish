@@ -1,0 +1,30 @@
+!foreground_color="0,0,0"
+!foreground_anim="fadein,0,2,%0,0,0,0%%"
+!wait="2"
+!background_sprite="taiikukan"
+
+&!charaimg_sprite="polygon2"="necchusyou_face_girl5"
+!charaimg_pos="polygon2"="1.2,0.36,0"
+!charaimg_size="polygon2"="3,4,1"
+&ひな「くらくらする……」
+
+&!charaimg_sprite="polygon"="ue_bikkuriman"
+!charaimg_pos="polygon"="-1.37,0.2,0"
+!charaimg_size="polygon"="3.8,5.8,1"
+&あなた「え！？ 大丈夫……？」
+
+&ひな「濡れたタオルを持ってきてくれない？」
+
+&!charaimg_sprite="polygon"="odorokiman"
+!charaimg_size="polygon"="3,4,1"
+&あなた「ここにあるよ！ 頭に乗せる？」
+
+&!charaimg_sprite="polygon"="necchusyou_face_boy2"
+&ひな「ありがとう！ いや……」
+&!charaimg_sprite="polygon2"="necchusyou_face_girl4"
+&ひな「熱中症が疑われる場合は……」
+&あなた「……！？」
+&ひな「首周り・わきの下、 足のつけ根を冷やすと……」
+
+&!charaimg_sprite="polygon"="odorokiman"
+&あなた「（こんなときまで知識を……すごい……！）」
