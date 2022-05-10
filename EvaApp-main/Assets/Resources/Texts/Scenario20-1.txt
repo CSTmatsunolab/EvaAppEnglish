@@ -7,82 +7,82 @@
 !charaimg_pos="polygon"="1.2,0,0"
 !charaimg_size="polygon"="4,6,1"
 
-&ひな「あっ！」
+&Hina「Oh no!」
 
 &!charaimg_sprite="polygon2"="ue_questionman"
 !charaimg_pos="polygon2"="-1.3,0.2,0"
 !charaimg_size="polygon2"="3,5,1"
 
-&あなた「どうしたの？」
-&ひな「歯ブラシを持ってくるのを忘れてしまったみたい…。」
+&You「What's wrong?」
+&Hina「I think I forgot to bring my toothbrush...」
 
 &!charaimg_sprite="polygon2"="ue_bikkuriman"
 !charaimg_pos="polygon2"="-1.2,0.3,0"
 !charaimg_size="polygon2"="3.2,5.2,1"
 
-&あなた「えっ。歯ブラシ忘れたの！？」
+&You「Eh. You forgot your toothbrush!」
 
 &!charaimg_sprite="polygon2"="haburashi_ageru_man"
 !charaimg_pos="polygon2"="-1.5,-1.3,0"
 !charaimg_size="polygon2"="5,7,1"
 
-&あなた「僕、災害時の備蓄に歯ブラシを多めに入れてきたからあげるよ。」
+&You「I've put more toothbrushes in my stockpile in case of disaster, so I'll give them to you.」
 
 &!charaimg_sprite="polygon"="pose_gutspose_woman"
 !charaimg_pos="polygon"="1.4,-0.8,0"
 !charaimg_size="polygon"="4,6,1"
 
-&ひな「ありがとう！これで歯を磨ける！！」
+&Hina「Thank you! Now I can brush my teeth!」
 
 &!charaimg_delete="polygon"="pose_gutspose_woman"
 &!charaimg_delete="polygon2"="haburashi_ageru_man"
 
-&「〜数時間後〜」
+&「~ a few hours later」
 
 &!charaimg_sprite="polygon"="hina_haburashi"
 !charaimg_pos="polygon"="1.5,0,0"
 !charaimg_size="polygon"="5,7,1"
 
-&ひな「よし、食事をとったし貰った歯ブラシで歯磨きをしようかな。」
-&避難者の声「まだ、水は復旧しないね…。」
-&避難者の声「そうねぇ。さっきトイレに行ったら水が流せない状態ですごいことになってた…。」
-&避難者の声「手も洗うのも難しい状況になるなんて思いもしなかった…。」
+&Hina「Okay, I've eaten and I'm going to brush my teeth with the toothbrush they gave me.」
+&Evacuees' Voices「Still no water restored....」
+&Evacuees' Voices「Oh, yeah. I just went to the bathroom and the water was not flushing....」
+&Evacuees' Voices「I never thought I would be in a situation where it would be difficult to even wash my hands...」
 
 &!charaimg_sprite="polygon"="hina_shock"
 !charaimg_pos="polygon"="1.2,0.5,0"
 !charaimg_size="polygon"="2.5,4.5,1"
 
-&ひな「………。」
-&ひな「そもそも水不足なのに、歯磨きの時に口をすすぐための水なんて確保できないじゃない！！」
+&Hina「………」
+&Hina「There's no water to rinse out your mouth when you brush your teeth, when there's a water shortage to begin with!」
 
 &!charaimg_sprite="polygon"="hina_naku"
 !charaimg_pos="polygon"="1.6,0,0"
 !charaimg_size="polygon"="3.4,3.4,1"
 
-&ひな「どうしよう…。このままだと虫歯になってしまうよ……。」
+&Hina「What should I do.... I'm going to get a cavity if I don't do something about it. ......」
 
 &!charaimg_sprite="polygon2"="hina_sobo"
 !charaimg_pos="polygon2"="-1.6,-1,0"
 !charaimg_size="polygon2"="4.2,6.2,1"
 
-&ひなのお婆ちゃん「あらあら、ひな。どうしたの？」
-&ひな「お婆ちゃん…。水道が復旧してなくて歯磨きができそうにないの。」
-&ひな「このままだと虫歯になっちゃうよ……。」
-&ひなのお婆ちゃん「そうだったのね。そしたらこれを使うといいわ。」
+&Hina's grandmother「Hey Hina, what's up?」
+&Hina「Grandma... I can't brush my teeth because the water supply isn't restored.」
+&Hina「I'm going to get cavities if I don't. ......」
+&Hina's grandmother「That's right. Then you can use this.」
 
 &!charaimg_sprite="polygon3"="koukuusennzyoueki"
 !charaimg_pos="polygon3"="0,1.8,0"
 !charaimg_size="polygon3"="4.3,2.9,1"
 
-&ひな「何これ？」
-&ひなのお婆ちゃん「口腔洗浄液よ。これで口をすすぐと良いわ。」
+&Hina「What's this?」
+&Hina's grandmother「It's an oral rinse. Rinse your mouth with it.」
 
 &!charaimg_sprite="polygon"="pose_gutspose_woman"
 !charaimg_pos="polygon"="1.4,-0.8,0"
 !charaimg_size="polygon"="4,6,1"
 
-&ひな「ありがとう！この口腔洗浄液で口をすすげば虫歯予防ができる！！」
-&ひなのお婆ちゃん「その口腔洗浄液はひなにあげるわ。」
-&ひな「えっ、いいの？」
-&ひなのお婆ちゃん「お婆ちゃんの分はまだあるし、入れ歯消毒液も持ってきているから大丈夫よ。」
-&ひな「お婆ちゃんありがとう！！早速、口腔洗浄液で口をすすいでくるね！」
+&Hina「Thanks! Rinse my mouth out with this oral rinse to help prevent cavities!!!!」
+&Hina's grandmother「I'll give that oral rinse to Hina.」
+&Hina「What? Are you sure?」
+&Hina's grandmother「I still have some for me, and I brought denture disinfectant, so I'm good to go.」
+&Hina「Thanks Grandma! I'm off to rinse my mouth out with mouthwash ASAP!」

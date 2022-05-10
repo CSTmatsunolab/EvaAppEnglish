@@ -12,40 +12,40 @@
 !charaimg_size="polygon2"="4.2,6.2,1"
 !charaimg_anim="polygon2"="ad,0,1,EaseInOut%%4.2,6.2,1%1.6,-0.4,0"
 
-&ひな「お尻が痛そうな顔しているね。」
+&Hina「Your butt looks like it hurts.」
 
 &!charaimg_sprite="polygon5"="siriita"
 &!charaimg_pos="polygon5"="0,2,0"
 !charaimg_size="polygon5"="4.5,2.4,1"
 
-&あなた「そうなんだ。体育館は床が硬くて。」
+&You「Yes, that's right. The gym has a hard floor.」
 
 &!charaimg_pos="polygon5"="0,10,0"
 
-&あなた「クッションとかないかな。」
-&ひな「ビニール袋でクッションを作れるよ。」
+&You「Maybe some cushions or something.」
+&Hina「You can make cushions out of plastic bags.」
 
 &!charaimg_pos="polygon"="-1.26,0.08,0"
 &!charaimg_sprite="polygon"="odorokiman"
 
-&あなた「ほんと？はやくおしえてくれ！」
+&You「Really? Tell me about it!」
 
 &!charaimg_sprite="polygon5"="item_hukuro"
 &!charaimg_pos="polygon5"="0,2,0"
 
-&ひな「ビニール袋を用意します。」
+&Hina「Prepare plastic bags。」
 
 &!charaimg_sprite="polygon5"="item_hukuro"
 &!charaimg_pos="polygon5"="0,2,0"
 
-&ひな「ビニール袋に3分の1くらい……もしくは半分くらい空気を入れて」
+&Hina「Fill the plastic bag one-third or half full of air.」
 &!charaimg_sprite="polygon5"="item_hukuramu"
-&ひな「しっかり口を閉じれば完成だよ。」
+&Hina「Just close it tightly and you're done.」
 
-&あなた「なんだ。」
+&You「That's all?」
 &!charaimg_sprite="polygon"="Enari"
-&あなた「簡単じゃないか。」
-&ひな「空気の量を調節すれば」
+&You「That's easy.」
+&Hina「By adjusting the amount of air」
 &!charaimg_sprite="polygon5"="suwaruman"
 &!charaimg_pos="polygon5"="-1.26,5,0"
 !charaimg_size="polygon5"="3,4,1"
@@ -53,7 +53,7 @@
 !charaimg_size="polygon"="1.5,2.4,1"
 !charaimg_pos="polygon"="-1.5,-0.4,0"
 !charaimg_anim="polygon5"="ad,0,1,EaseInOut%%3,4,1%-1.26,0.7,0"
-&ひな「柔らかさを調節できるし、」
-&ひな「耐久性がないから座布団のように使うのは難しいけど、」
-&ひな「タオルを巻いたりして、枕の代わりにもできるよ。座る時腰に当てるのもいいかもね。」
-&あなた「やるじゃん、ひなちゃん。」
+&Hina「I can adjust the softness」
+&Hina「It's not durable, so it's hard to use it like a cushion」
+&Hina「You can also wrap a towel around it and use it as a pillow. You could even put it on your waist when you sit down.」
+&You「Nice work, Hina.」

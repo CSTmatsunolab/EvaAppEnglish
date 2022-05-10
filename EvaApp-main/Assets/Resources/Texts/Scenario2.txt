@@ -9,13 +9,13 @@
 !charaimg_pos="polygon2"="0,-0.2,0"
 !charaimg_size="polygon2"="2.8,4.8,1"
 
-&あなた「よし、避難所に行こう」
+&You「Okay, let's go to the shelter.」
 &!charaimg_pos="polygon"="-10,0.2,0"
 !charaimg_anim="polygon2"="anim2,0,1,EaseInOut%%2.8,4.8,1%10,-0.2,1"
 !charaimg_pos="polygon2"="-10,-0.2,0"
 !background_sprite="bg_gakkou"
 &!charaimg_anim="polygon2"="anim3,0,1,EaseInOut%%2.8,4.8,1%-0.5,-0.2,1"
-&あなた「よし、とりあえず避難所についたぞ！」
+&You「Okay, we're at the shelter anyway!」
 &!charaimg_pos="polygon2"="-10,-0.2,0"
 !background_sprite="bg_getabako"
 !charaimg_sprite="polygon3"="job_staff_jumper_man"
@@ -23,12 +23,12 @@
 !charaimg_size="polygon3"="4,6,1"
 !charaimg_anim="polygon2"="animo3,0,1,EaseInOut%%2.8,4.8,1%-1.4,-0.2,1"
 
-&あなた「あの、避難してきたものですが...。」
-&避難所スタッフ「大変でしたね。」
+&You「Um, I am an evacuee....」
+&Shelter staff「That was tough.」
 &!charaimg_sprite="polygon4"="item_syorui"
 !charaimg_pos="polygon4"="0,10,0"
 !charaimg_size="polygon4"="2,2,1"
 !charaimg_anim="polygon4"="anim3,0,1,EaseInOut%%2,2,1%0,0,1"
-&避難所スタッフ「ではここにお名前、ご住所、電話番号等をご記入ください」
-&避難所スタッフ「また、アレルギーや体調の不安もご記入ください」
-&あなた「わかりました」
+&Shelter staff「Please enter your name, address, phone number, etc. here」
+&Shelter staff「Please also indicate any allergies or health concerns」
+&You「Okay, I understand.」

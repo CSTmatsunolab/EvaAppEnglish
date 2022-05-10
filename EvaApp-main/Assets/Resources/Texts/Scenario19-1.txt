@@ -7,37 +7,37 @@
 !charaimg_pos="polygon"="1.4,-0.4,0"
 !charaimg_size="polygon"="4,6,1"
 
-&ひな「1,2,3,4,…。よし、反対もっ、1,2,3,4,…。」
+&Hina「1,2,3,4,.... Okay, opposite, 1,2,3,4,....」
 
 &!charaimg_sprite="polygon2"="ue_questionman"
 !charaimg_pos="polygon2"="-1.5,0.2,0"
 !charaimg_size="polygon2"="2.8,4.8,1"
 
-&あなた「何してるの？」
+&You「What are you doing?」
 
 &!charaimg_sprite="polygon"="ouen_jersey_woman6_pink"
 !charaimg_pos="polygon"="1,0.2,0"
 !charaimg_size="polygon"="3.4,5.4,1"
 
-&ひな「何って、体操をして体を動かしてるの。」
-&あなた「でも、朝も体操してなかった？」
-&あなた「何でまた体を動かしているのさ？」
-&ひな「1日に3回適度な運動が必要なの。」
-&ひな「だから朝だけの体操だと1日に必要な運動量を満たさないの。」
+&Hina「What do you mean? I'm doing exercises and moving my body.」
+&You「But didn't you do exercises in the morning too?」
+&You「Why are you moving your body again?」
+&Hina「I need three moderate workouts a day.」
+&Hina「So if I only do exercises in the morning, I don't get the amount of exercise I need for the day.」
 
 &!charaimg_sprite="polygon2"="komatta_man3"
 !charaimg_pos="polygon2"="-1.3,0.4,0"
 !charaimg_size="polygon2"="3,5,1"
 
-&あなた「1日に3回運動するのか…。大変そう…。」
-&ひな「そんなに大変でもないわ。」
-&ひな「隙間時間に体を動かしたり、それに気分のリフレッシュにもなるし、結構体を動かすのも良いものよ。」
+&You「You exercise 3 times a day.... Sounds like a lot of work....」
+&Hina「It's not that hard.」
+&Hina「It's good to move around a lot, to move around in the gap time, and besides, it's good to refresh your mood.」
 
 &!charaimg_sprite="polygon2"="face_smile_man4"
 !charaimg_pos="polygon2"="-1.3,0.2,0"
 !charaimg_size="polygon2"="2.2,4.2,1"
 
-&あなた「そっかー。そしたら僕も1日に3回、運動する時間を作ろうかな。」
-&ひな「その心がけはとても大事だね。」
-&ひな「早速、今から私と一緒に体を動かしに行かない？」
-&あなた「うん。行く！」
+&You「I see. Then I'll make time to exercise three times a day too.」
+&Hina「That mindset is very important.」
+&Hina「As soon as possible, why don't you go work out with me now?」
+&You「Yeah. Let's go!」

@@ -7,21 +7,21 @@
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.8,4.8,1"
 
-&あなた「痛ててて…」
+&You「Ouch...」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon2"="1.2,-0.8,0"
 !charaimg_size="polygon2"="4.6,6.6,1"
 
-&ひな「どうしたの！？」
-&あなた「支援物資を運んでいるときに、転んじゃって…」
+&Hina「What's wrong with you!」
+&You「I was carrying relief supplies and I fell...」
 
 &!charaimg_sprite="polygon2"="pose_shock_woman"
 !charaimg_pos="polygon2"="1.2,-0.2,0"
 !charaimg_size="polygon2"="4,6,1"
 
-&ひな「大丈夫！？血も出てる…」
-&ひな「消毒液持ってるから、すぐ取ってくるね！」
+&Hina「Are you okay! And you're bleeding...」
+&Hina「I have some disinfectant, I'll get it right away!」
 
 &!charaimg_sprite="polygon2"="run_right_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
@@ -30,28 +30,28 @@
 !charaimg_anim="polygon2"="runn,0,1,Linear%%4.47,4.88,1%5,5,0"
 
 
-&「〜3分後〜」
+&「~3 minutes later」
 
 &!charaimg_sprite="polygon2"="run_left_woman"
 !charaimg_active="polygon2"="true"
 !wait="5"
 !charaimg_anim="polygon2"="runm,0,1,Linear%%4.47,4.88,1%1.2,-0.5,0"
 
-&ひな「持ってきたよ！」
+&Hina「I brought it!」
 
 &!charaimg_sprite="polygon4"="disinfection"
 !charaimg_pos="polygon4"="0,2,0"
 !charaimg_size="polygon4"="4.3,2.9,1"
 
-&あなた「ありがとう！」
+&You「Thank you!」
 
 &!charaimg_sprite="polygon2"="pose_shock_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
 
-&ひな「消毒する前に傷口を水で洗わないと。」
-&あなた「まだ水道が復旧していないし、飲水用に配られた水を使うのはもったいくて使えないよ…」
-&ひな「でも、傷口を綺麗にしないと消毒できない！菌が繁殖しちゃう…」
+&Hina「You have to wash the wound with water before disinfecting it.」
+&You「The water supply has not yet been restored, and it would be a waste to use the water that was distributed for drinking...」
+&Hina「But you have to clean the wound before you can disinfect it! Bacteria will multiply...」
 
 &!charaimg_delete="polygon4"="disinfection"
 &!charaimg_size="polygon"="2.5,4.5,1"
@@ -64,28 +64,28 @@
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="2.3,4.3,1"
 
-&女性「どうしたの？」
-&ひな「水がなくて傷口が洗えないんです…今の状態だと消毒もできなくて…」
+&Woman「What's wrong?」
+&Hina「I can't wash the wound because there's no water... and in the state I'm in, I can't even disinfect it...」
 
 &!charaimg_sprite="polygon3"="obasan_surprise"
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="2.3,4.3,1"
 
-&女性「それは大変！！」
+&Woman「That's a big deal!」
 
 &!charaimg_sprite="polygon4"="wetwipes"
 !charaimg_pos="polygon4"="0,2,0"
 !charaimg_size="polygon4"="4.3,2.9,1"
 
-&女性「このウエットティッシュを使いなさい」
-&あなた「ウエットティッシュ！！」
-&あなた・ひな「ありがとうございます！」
+&Woman「Use these wet wipes.」
+&You「Wet wipes!」
+&You・Hina「Thank you!」
 
 &!charaimg_sprite="polygon3"="obasan03_smile"
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="2.3,4.3,1"
 
-&ひな「これで、傷口を綺麗にできます！」
-&女性「ウエットティッシュは体を清潔に保つのにも使えるから便利よ。」
-&女性「まだ何個か持っているから二人にあげるわ。」
-&女性「ささっ。早く傷口を消毒してあげて」
+&Hina「Now we can clean up the wound!」
+&Woman「Wet wipes are also useful for keeping your body clean.」
+&Woman「I still have a couple of them and I'll give them to you both.」
+&Woman「Whisper it. Quick, disinfect the wound.」

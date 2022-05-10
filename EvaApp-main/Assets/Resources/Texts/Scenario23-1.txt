@@ -12,16 +12,16 @@
 !charaimg_size="polygon2"="4.2,6.2,1"
 !charaimg_anim="polygon2"="ad,0,1,EaseInOut%%4.2,6.2,1%1.6,-0.4,0"
 &!wait="1"
-&ひな「困った顔してどうしたの？」
+&Hina「What's wrong with your troubled face?」
 &!charaimg_sprite="polygon5"="kusakutu"
 !charaimg_pos="polygon5"="0,5,0"
 !charaimg_size="polygon5"="4.5,2.4,1"
 !charaimg_anim="polygon5"="rakka,0,1,EaseInOut%%4.5,2.4,1%0,2.7,0"
 
-&あなた「いや、履いてきた靴が臭くなってきてね。」
-&ひな「100円玉を靴の中に入れれば、匂いがとれるよ。」
+&You「The shoes I wore started to smell.」
+&Hina「Put a 100 yen coin in your shoe and it will take away the smell.」
 &!charaimg_sprite="polygon5"="100yen"
-&あなた「本当に？とりあえず入れてみるか。」
+&You「Really? Let's just get it in there.」
 
 &!charaimg_sprite="polygon3"="青空"
 !charaimg_pos="polygon5"="0,2,0"
@@ -29,26 +29,26 @@
 !charaimg_size="polygon3"="15.2,22,1"
 &!charaimg_sprite="polygon5"="kusakutu"
 
-&「数時間後」
+&「a few hours later」
 &!wait="2"
 &!charaimg_delete="polygon3"=""
 
 &!charaimg_sprite="polygon"="nioiman"
-&あなた「くん、くん。」
+&You「Sniff-sniff」
 &!charaimg_pos="polygon"="-1.26,0.08,0"
 &!charaimg_sprite="polygon"="necchusyou_face_boy5"
-&あなた「うわっ臭い！」
-&ひな「100円玉に消臭効果はないよ。」
+&You「Oh my God, it stinks!」
+&Hina「A 100-yen coin doesn't have deodorant properties.」
 &!charaimg_sprite="polygon5"="syousyu"
 &!charaimg_pos="polygon5"="0,5,0"
 !charaimg_size="polygon5"="4.5,2.4,1"
 !charaimg_anim="polygon5"="rakka,,,Replay"
-&ひな「10円玉は銅でできていて」
-&ひな「水分に反応して、抗菌作用のある銅イオンが発生するので」
-&ひな「不快なニオイの元を分解してくれるんだ。」
+&Hina「A ten-yen coin is made of copper.」
+&Hina「It reacts with moisture to produce copper ions that have antibacterial properties」
+&Hina「They break down the source of unpleasant odors.」
 &!charaimg_anim="polygon5"="saraba,0,1,EaseInOut%%4.5,2.4,1%0,10,0"
-&ひな「失敗して学べてよかったね。」
+&Hina「Good for you for making mistakes and learning from them.。」
 &!charaimg_sprite="polygon"="komatta_man3"
-&あなた「君なんなん？」
+&You「What the hell」
 
 

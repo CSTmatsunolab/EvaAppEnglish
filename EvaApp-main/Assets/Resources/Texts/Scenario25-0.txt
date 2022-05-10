@@ -7,44 +7,44 @@
 !charaimg_pos="polygon"="0.2,0.23,0"
 !charaimg_size="polygon"="2.2,4,1"
 
-&ひな「えっ！そうなんですか！？」
+&Hina「What? ! Is that so!」
 
 &!charaimg_pos="polygon"="1.37,0.21,0"
 &!charaimg_sprite="polygon2"="ue_questionman"
 !charaimg_pos="polygon2"="-1.45,-0.05,0"
 !charaimg_size="polygon2"="2.7,4.3,1"
 
-&あなた「ひなさん。どうかしたの？」
-&ひな「それが、次に支援物資が来るのが1週間後になるかもしれないって…。」
+&You「Hina. What's wrong?」
+&Hina「Then they told me that the next relief supplies might not arrive until a week from now....」
 
 &!charaimg_sprite="polygon2"="kanashikuna_man"
 !charaimg_pos="polygon2"="-1.6,-1.6,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
 
-&あなた「えっ！そんな！！」
-&あなた「今ある食料も少ないのに！」
+&You「What? ! Oh, no!」
+&You「And with the little food we have now!」
 
 &!charaimg_sprite="polygon"="hina_naku"
 !charaimg_pos="polygon"="1.3,-0.06,0"
 !charaimg_size="polygon"="2.3,3.9,1"
 
-&ひな「そうなのよ……。」
+&Hina「That's right. .......」
 
 &!charaimg_sprite="polygon2"="pose_gutsposeman"
 !charaimg_pos="polygon2"="-1.32,-1.19,0"
 !charaimg_size="polygon2"="3.7,5.5,1"
 
-&あなた「よし！近くにあるスーパーやコンビニを探して食料を調達しに行こう！」
-&ひな「えっ？」
-&あなた「品物を置いてるお店があるかもしれない。」
-&あなた「それで、炊き出しをしよう！」
+&You「Okay!!! Let's go find a nearby supermarket or convenience store and get some food!」
+&Hina「What?」
+&You「There may be stores that have items.」
+&You「So let's have a cookout!」
 
 &!charaimg_sprite="polygon"="pose_gutspose_woman"
 !charaimg_pos="polygon"="1.49,-1.07,0"
 !charaimg_size="polygon"="3.2,5.3,1"
 
-&ひな「そうだね。まずは行動してみよ！」
-&ひな「私は避難所スタッフの人に話をしてくるよ。」
-&あなた「ありがとう！」
-&あなた「一緒にスーパーやコンビニを探してくれるか皆に声をかけてくるね！」
+&Hina「Yes, I agree. Let's act first!」
+&Hina「I'll go talk to the shelter staff.」
+&You「Thank you!」
+&You「I'm going to ask everyone if they can help me find a supermarket or convenience store!」
 

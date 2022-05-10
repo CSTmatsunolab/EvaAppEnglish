@@ -12,11 +12,11 @@
 
 
 &!charaimg_anim="polygon5"="Yure,,,Replay"
-&「ごごご……」
-&あなた「地震だ！」
+&「RMBL RMBL......」
+&You「Earthquake!」
 &!charaimg_sprite="polygon"="ue"
-&「3分後……」
-&あなた「かなり強い揺れだったな。」
+&「3 minutes later ......」
+&You「That was a pretty strong tremor.」
 
 &!background_sprite="bg_anun"
 !charaimg_anim="polygon5"="anim2,0,1,EaseInOut%0,0,0,0%12,12,1%0,0,1"
@@ -30,18 +30,18 @@
 !charaimg_pos="polygon2"="10,-0.2,0"
 !charaimg_size="polygon2"="2.8,4.8,1"
 
-&あなた「警報も出てる……避難すべきかな？」
+&You「There's also an alert on ...... Should we evacuate?」
 
 &!charaimg_sprite="polygon"="item_ie"
 !charaimg_pos="polygon"="2.47,1.77,0"
 !charaimg_size="polygon"="10,8,1"
 !charaimg_pos="polygon3"="10,0.6,0"
 
-&「家の外に出てみると、近所の人が避難していた。」
+&「You went outside my house and found that your neighbors had evacuated.」
 
 &!charaimg_pos="polygon2"="-0.4,-0.2,0"
 
-&あなた「みんな避難してるし、避難所とやらに行ってみるとするか」
+&You「Everyone's evacuated, so let's go to the shelter or whatever it's called.」
 
 &!charaimg_pos="polygon3"="10,0.6,0"
 
@@ -55,12 +55,12 @@
 !charaimg_size="polygon2"="2.8,4.8,1"
 !charaimg_anim="polygon2"="animo2,0,1,EaseInOut%%2.8,4.8,1%-0.8,-0.2,1"
 
-&あなた「ハッ！家の壁が倒壊してる！これは避難しなければならない！」
-&あなた「避難用のリュックを持ってこよう！」
+&You「Ha! The walls of my house are collapsing! This must be evacuated!」
+&You「Bring an evacuation backpack!」
 
 &!charaimg_sprite="polygon2"="ryukku_man"
 
-&あなた「こういうときのために備蓄を用意してきてよかったー」
+&You「I'm glad I came prepared with a stockpile for times like these!」
 &!charaimg_anim="polygon2"="anim2,0,1,EaseInOut%%2.8,4.8,1%10,-0.2,1"
 !wait="1"
 &!charaimg_delete="polygon"=""
@@ -73,5 +73,5 @@
 !charaimg_sprite="polygon1"="ryukku_man"
 !charaimg_pos="polygon1"="0,-0.2,0"
 !charaimg_size="polygon1"="2.8,4.8,1"
-&あなた「ん？でも避難所ってどこにあるんだ？」
-&あなた「調べるか」
+&You「Hmm? But where is the shelter?」
+&You「Let's check it out.」

@@ -6,35 +6,35 @@
 !charaimg_pos="polygon"="-0.9,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
 
-&あなた「あ！置いておいた水に日光があたっちゃってる…」
+&You「Ah! The sunlight is hitting the water where I left it...」
 
 &!charaimg_size="polygon"="0,0,1"
 !charaimg_sprite="polygon2"="ue_questionman"
 !charaimg_pos="polygon2"="-1.3,0.2,0"
 !charaimg_size="polygon2"="3,5,1"
 
-&あなた「でも1日くらいだし飲んでも大丈夫かな？」
+&You「But it's only for a day or so, and I don't know if I can drink it.」
 
 &!charaimg_sprite="polygon3"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon3"="1.2,-0.5,0"
 !charaimg_size="polygon3"="4.3,6.3,1"
 
-&ひな「日光があたっていた水を見つけたの？」
-&あなた「そうなんだ。でももったいないから飲んじゃおうかと思って」
+&Hina「Did you find water that had been exposed to sunlight?」
+&You「I see. But I thought it would be a waste, so I thought I'd drink it.」
 
-&ひな「絶対に飲んじゃダメ！」
-&ひな「1日でも細菌が繁殖して危ないんだ！」
+&Hina「Never drink it!」
+&Hina「Even one day is dangerous for the bacteria to grow!」
 
 &!charaimg_size="polygon2"="0,0,1"
 !charaimg_sprite="polygon4"="odorokiman"
 !charaimg_pos="polygon4"="-1.3,0.2,0"
 !charaimg_size="polygon4"="2.5,4.5,1"
 
-&あなた「そうだったのか…飲んでたら体調を崩していたかも…」
+&You「I didn't know that... if I had been drinking I would have been sick...」
 
 &!charaimg_size="polygon4"="0,0,1"
 !charaimg_sprite="polygon5"="face_smile_man4"
 !charaimg_pos="polygon5"="-1.3,0.2,0"
 !charaimg_size="polygon5"="2.5,4.5,1"
 
-&あなた「ありがとう！」
+&You「Thank you!」

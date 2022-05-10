@@ -9,24 +9,24 @@
 !charaimg_pos="polygon3"="0,3,0"
 !charaimg_size="polygon3"="3,3,1"
 
-&あなた「この懐中電灯、単一電池だ！でも手元に単三電池しかないな…」
+&You「This flashlight has a single battery! But I only have AA batteries on hand...」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
 
-&ひな「単一電池がないの？」
+&Hina「No single battery?」
 
 &!charaimg_size="polygon3"="0,0,1"
 !charaimg_sprite="polygon4"="make_tan1"
 !charaimg_pos="polygon4"="0,3,0"
 !charaimg_size="polygon4"="4,4,1"
 
-&ひな「単三電池に布を巻いて、アルミホイルを底につければ、単一電池にできるよ」
+&Hina「You can make a single battery by wrapping a cloth around an AA battery and attaching aluminum foil to the bottom.」
 
 &!charaimg_size="polygon"="0,0,1"
 !charaimg_sprite="polygon5"="face_smile_man4"
 !charaimg_pos="polygon5"="-1.3,0.2,0"
 !charaimg_size="polygon5"="3,4.5,1"
 
-&あなた「本当だ！、ありがとう！」
+&You「It's true! Thank you!」

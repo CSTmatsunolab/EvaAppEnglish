@@ -10,52 +10,52 @@
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.2,6.2,1"
 
-&ひな「あっ、いたいた！」
-&あなた「あれ、ひなさん。どうしたの？」
-&ひな「これからラジオ体操をするんだけど、一緒に行かない？」
+&Hina「Oh, there you are!」
+&You「Hey, Hina. What's wrong?」
+&Hina「I'm going to do radio exercises now, do you want to go with me?」
 
 &!charaimg_sprite="polygon"="komatta_man2"
 !charaimg_pos="polygon"="-0.9,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
 
-&あなた「えー。ラジオ体操？」
-&あなた「めんどくさいなぁ。何でまた、ラジオ体操をするのさぁ…。」
-&ひな「ねえ。最近体動かしてる？」
-&あなた「んー…。避難所に来てから運動してないかも…。」
-&あなた「避難所では周りに人がいて、運動しずらくて。」
-&あなた「運動するどころか、座っている時間が長いよ。」
+&You「Eh. Radio exercises?」
+&You「What a hassle. Why do I have to do radio exercises again....」
+&Hina「Hey. Have you been moving around lately?」
+&You「Hmmm... I haven't exercised since I came to the shelter....」
+&You「At the shelter, it was difficult to exercise because there were people around.」
+&You「I spend a lot of time sitting around, instead of exercising.」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
 !charaimg_pos="polygon2"="1.2,-1,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
 
-&ひな「そこで、ラジオ体操なんだよ！！」
+&Hina「That's where radio calisthenics come in!」
 
 &!charaimg_sprite="polygon"="ue_questionman"
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.8,4.8,1"
 
-&あなた「？？？」
-&ひな「ラジオ体操は運動不足の解消にとても良いのよ。」
-&ひな「長時間同じ姿勢のままでいると、エコノミー症候群や生活不活発病になるかもしれないの。」
-&あなた「えっ！どんな病気なの？」
+&You「？？？」
+&Hina「Radio exercises are very good for getting exercise.」
+&Hina「If you stay in the same posture for a long time, you might get economy syndrome or lifestyle inactivity.」
+&You「What! What kind of disease?」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.2,6.2,1"
 
-&ひな「血の流れが悪くなって、血管内の血のかたまりがはがれて肺の血管に詰まってしまうの。」
-&ひな「最悪の場合、死亡する可能性もある病気なの。」
+&Hina「The blood flow slows down and clumps of blood in the blood vessels detach and get stuck in the blood vessels in the lungs.」
+&Hina「In the worst case scenario, it's a potentially fatal disease.」
 
 &!charaimg_sprite="polygon"="odorokiman"
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.4,4.4,1"
 
-&あなた「そんな…。だからラジオ体操で運動不足を解消するんだね。」
-&ひな「それに、避難所の人たちともラジオ体操を一緒にすることで、話す機会ができて色々と情報交換の場にもなってるの。」
-&あなた「僕もラジオ体操に参加したい！！」
-&ひな「よかった！一緒にラジオ体操しましょ！！」
-&「〜♩ラジオ体操、第一♩〜」
+&You「Oh no.... So you do radio exercises to get your exercise.」
+&Hina「In addition, by doing radio calisthenics together with people at the shelter, we have a chance to talk and exchange information with them.」
+&You「I wanna join in on the radio exercises too!!!!」
+&Hina「Thank God! Let's do radio exercises together!」
+&「〜♩ Radio Exercise No.1 ♩」
 
 &!charaimg_sprite="polygon"="pose_gutsposeman"
 !charaimg_pos="polygon"="-1.4,-0.5,0"
@@ -64,5 +64,5 @@
 !charaimg_pos="polygon2"="1.4,-0.5,0"
 !charaimg_size="polygon2"="3.8,5.8,1"
 
-&あなた「あっ！ラジオ体操が始まったみたい！」
-&ひな「よし！行こ！！」
+&You「Ah! Looks like the radio calisthenics have started!」
+&Hina「All right! Let's go!」

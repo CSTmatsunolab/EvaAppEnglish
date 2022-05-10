@@ -6,22 +6,22 @@
 !charaimg_pos="polygon"="0,0,0"
 !charaimg_size="polygon"="3.8,5.8,1"
 
-&あなた「んー、暇だなぁ。」
+&You「Hmmm, I'm bored.」
 &!charaimg_sprite="polygon"="komatta_man2"
 !charaimg_pos="polygon"="0.5,0,0"
 !charaimg_size="polygon"="5,6,1"
-&あなた「少しトイレに行きたい気もするけど、我慢できないほどでもないしなぁ。」
-&あなた「一応行っておくか」
+&You「I feel like I need to go to the bathroom a little, but not so much that I can't stand it.」
+&You「I'd better go, just in case.」
 &!charaimg_anim="polygon"="ac,0,1,EaseInOut%%4.2,6.2,1%10,-0.4,0"
 !wait="2"
 &!charaimg_color="polygon"="0,0,0,0"
 !charaimg_sprite="polygon2"="青空"
 !charaimg_pos="polygon2"="0,0,0"
 !charaimg_size="polygon2"="15.2,22,1"
-&「20分後…」
+&「20 minutes later...」
 &!wait="2"
-&あなた「ん？なんだかトイレが騒がしいぞ？」
-&あなた「見に行くか。」
+&You「Hmm? What's all that noise in the bathroom?」
+&You「Let's go take a look.」
 &!background_sprite="Square"
 !charaimg_sprite="polygon2"="mugentoire"
 !charaimg_pos="polygon2"="0,1.5,0"
@@ -31,17 +31,17 @@
 !charaimg_active="polygon3"="true"
 !charaimg_anim="polygon3"="Sin,0,1,EaseInOut%%5,5,1%1,0.3,0"
 !wait="1"
-&あなた「わっ！トイレめちゃくちゃ混んでるじゃん！！」
+&You「Whoa! The restrooms are so crowded!」
 &!charaimg_sprite="polygon3"="face_smile_man4"
-&あなた「さっき済ましておいてよかった…」
+&You「I'm glad I did that earlier...」
 
 &!charaimg_sprite="polygon4"="job_staff_jumper_man"
 !charaimg_pos="polygon4"="-1.6,-0.5,0"
 !charaimg_size="polygon4"="4.3,6.3,1"
-&避難所スタッフ「そのとおりです！」
-&あなた「あ、スタッフのお兄さん」
-&避難所スタッフ「トイレを我慢しすぎると、どんな病気や症状が出るかご存知ですか？」
-&あなた「えーっと……膀胱炎とか？」
-&避難所スタッフ「そうですね！ さらに血圧の上昇や、感染症のリスクがあるんですよ」
-&避難所スタッフ「避難所では、こまめにトイレに行くことを心がけましょう」
-&あなた「気をつけます！」
+&Shelter staff「That's right!」
+&You「Oh, the brother of the staff.」
+&Shelter staff「Do you know what diseases and symptoms can occur if you hold the toilet too long?」
+&You「Let's see, ...... bladder infection or something?」
+&Shelter staff「Yes, it is! Plus, there's an increase in blood pressure and the risk of infection.」
+&Shelter staff「In shelters, be sure to go to the bathroom frequently!」
+&You「I'll be careful!」

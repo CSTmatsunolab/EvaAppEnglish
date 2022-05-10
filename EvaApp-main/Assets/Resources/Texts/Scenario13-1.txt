@@ -7,7 +7,7 @@
 !charaimg_pos="polygon"="-6,-0.4,0"
 !charaimg_size="polygon"="4.2,6.2,1"
 &!charaimg_anim="polygon"="ad,0,1,EaseInOut%%4.2,6.2,1%-1.6,-0.4,0"
-&あなた「トイレ、トイレ〜♪」
+&You「Toilet, toilet... ♪」
 
 &!charaimg_sprite="polygon2"="run_left_woman"
 !charaimg_pos="polygon2"="10,-0.1,0"
@@ -16,50 +16,48 @@
 
 !charaimg_sprite="polygon2"="bikkuri_woman"
 
-&ひな「トイレの水が止まったらしいよ！」
+&Hina「I heard the toilets stopped flushing!」
 &!charaimg_active="polygon"="false"
 !charaimg_sprite="polygon3"="mirrorbikkuri"
 !charaimg_size="polygon3"="4.2,6.2,1"
 !charaimg_pos="polygon3"="-0.8,0.5,0"
 
-&あなた「ハッ！嘘だそんなこと！」
+&You「Ha! No, no, no, no, no, no, no, no, no, no, no, no, no, no!」
 &!charaimg_sprite="polygon3"="odorokiman"
 !charaimg_size="polygon"="3,3,1"
 
-&あなた「僕の便意はどうして解放すれば良いのだ...」
+&You「How can I release my bowel movements...」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 
-&ひな「簡易トイレを作ればいいじゃん」
+&Hina「Why not just build a portable toilet?」
 &!charaimg_sprite="polygon3"="komatta_man3"
-&あなた「簡易トイレを作る？」
-&ひな「うん」
-&あなた「木の枝とか使うの？」
-&ひな「違うな」
-&ひな「段ボールの箱とビニール袋、新聞紙の3つがあればすぐできるよ」
+&You「Building a portable toilet?」
+&Hina「yeah」
+&Hina「All you need is a cardboard box, a plastic bag, and newspaper, and you're ready to go.」
 &!charaimg_sprite="polygon3"="odorokiman"
-&あなた「はやくおしえてくれ！！」
-&ひな「まずは段ボールを用意するよ」
+&You「Tell me about it!」
+&Hina「First, I'll get you some cardboard.」
 &!charaimg_sprite="polygon5"="toire1"
 !charaimg_pos="polygon5"="0,2,0"
 !charaimg_size="polygon5"="4,4,1"
-&ひな「段ボールを箱型に組み立てる」
-&ひな「このとき4隅を補強すると安定するよ」
-&ひな「そして真ん中に穴を開ける」
+&Hina「Assemble cardboard into a box shape」
+&Hina「Reinforcing the four corners at this point will help stabilize it.」
+&Hina「And then drill a hole in the middle.」
 &!charaimg_sprite="polygon5"="toire2"
-&ひな「穴の中にビニール袋を入れて、箱を覆う様に広げる」
+&Hina「Place a plastic bag in the hole and spread it out to cover the box.」
 &!charaimg_sprite="polygon5"="toire3"
-&あなた「袋1枚で大丈夫？」
-&ひな「もちろん袋は2重にした方が匂いが漏れにくいよ」
-&ひな「最後に中に新聞紙を入れれば完成だわ！」
+&You「Is one bag enough?」
+&Hina「Of course, you'd better double up on the bags so the smell doesn't leak out.」
+&Hina「Finally, put some newspaper inside and you're done!」
 &!charaimg_sprite="polygon5"="toire4"
-&あなた「そうか！市販の簡易トイレは凝固剤がついているから、出したものを個体に変換できるが、」
-&あなた「手作りでは凝固剤がないので」
-&あなた「新聞紙を入れることで、水分を吸収し、後で捨てるときの作業を楽にすることができるのか！」
-&ひな「その通り。粉末洗剤などを振り撒けば、臭いも少しは抑えられるわ」
+&You「Oh yeah!!! Commercial commode toilets have a coagulant on them so you can convert what you let out into an individual, but」
+&You「There is no coagulant in the handmade」
+&You「So putting newspaper in there will absorb the moisture and make it easier to throw away later!」
+&Hina「Exactly. Sprinkling some powdered detergent or something like that on the floor will help keep the smell down a bit.」
 &!charaimg_delete="polygon5"=""
 &!charaimg_sprite="polygon3"="face_smile_man4"
-&あなた「なるほど！ありがとう！」
-&あなた「それじゃ」
-&あなた「いっちょやってみっか！」
-&ひな「人目のつかないところでね。」
+&You「I see! Thanks!」
+&You「well then ...」
+&You「Let's do it!」
+&Hina「In a secluded place.」
