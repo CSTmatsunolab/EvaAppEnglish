@@ -149,7 +149,7 @@ public class EndingManagement : MonoBehaviour
         Pdata.GetComponent<Player_Data>().PlayerData[1][7] = "0";
         Pdata.GetComponent<Player_Data>().PlayerData[1][8] = "0";
         Pdata.GetComponent<Player_Data>().PlayerData[1][9] = "避難所";
-        Pdata.GetComponent<Player_Data>().PlayerData[1][10] = "あなた";
+        Pdata.GetComponent<Player_Data>().PlayerData[1][10] = "You";
         Pdata.GetComponent<Player_Data>().PlayerData[1][11] = "0" ;
         Pdata.GetComponent<Player_Data>().PlayerData[1][12] = "0" ;
         // 被験者実験のため一度削除

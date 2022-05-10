@@ -12,19 +12,19 @@
 !charaimg_size="polygon2"="4.3,6.3,1"
 
 
-&あなた「家族と連絡を取りたいのに、繋がらない…。」
-&ひな「私も繋がらない…。他の人も連絡が取れないみたいだね。」
-&あなた「どうしよう。早く連絡取りたいのに…。」
-&ひな「近くに公衆電話があれば良いんだけど。」
-&あなた「公衆電話？」
-&ひな「うん。公衆電話は『災害時優先電話』だから災害時でもつながる場合があるんだよ。」
-&あなた「そうなんだ！」
+&You「I want to contact my family but I can't connect...」
+&Hina「I can't connect either... I can't seem to reach anyone else either.」
+&You「I don't know what to do. I can't wait to get in touch with you....」
+&Hina「I hope there is a pay phone nearby.」
+&You「Pay phone?」
+&Hina「Yeah. Pay phones are "disaster priority phones," so even in times of disaster, there are times when they can be connected.」
+&You「Oh yeah!」
 
 &!charaimg_sprite="polygon3"="171"
 !charaimg_pos="polygon3"="0,2,0"
 !charaimg_size="polygon3"="4.3,2.9,1"
 
 
-&ひな「公衆電話が見つかったら『災害用伝言ダイヤル』の『171』で家族に安否を伝えよう。」
-&あなた「『災害用伝言ダイヤル(171)』って、30秒以内の伝言を相手に伝えてくれるやつだよね。」
-&ひな「そうそう。あっ！公衆電話あった！！」
+&Hina「If you can find a pay phone, call "171," the "Disaster Message Dial," to let your family know you are safe.」
+&You「The "Disaster Message Dial (171)" is a service that allows you to pass on a message within 30 seconds to the other party.」
+&Hina「Yes, yes. Ah! There was a pay phone!」

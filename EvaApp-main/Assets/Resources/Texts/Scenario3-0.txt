@@ -12,25 +12,25 @@
 !charaimg_pos="polygon3"="0,20,0"
 !charaimg_size="polygon3"="4.3,2.9,1"
 
-&あなた「いつまで停電が続くんだろう…。電気がないと夜は真っ暗だね……。」
-&ひな「ほんと真っ暗だね…。ロウソクの灯りだけが頼りだよ。」
-&あなた「もう今使っているロウソクで最後なんだ…。今のロウソクを使い終わってしまったらどうしよう。」
-&ひな「ロウソク以外にも灯りとしてツナの缶詰が使えるよ。」
-&あなた「ツナの缶詰？」
-&ひな「うん。ツナの缶詰は油漬けにされているから、その油で火がつくんだよ。」
-&あなた「なるほど。でも、火はついたとしてもランプとして置くことができないよ…。」
-&ひな「そんなことないさ。辺りも暗くなってきたし、実際にツナの缶詰のランプを作るからよく見ていてね。」
-&あなた「分かった！！」
-&ひな「まずは、ランプの芯を作るためにティッシュを半分にしてこよりを作るよ。」
-&ひな「長さはツナ缶の高さの2.5倍ぐらいの長さにしてね。」
-&ひな「次に、ツナの缶詰にさっき作ったこよりが刺さる大きさの穴を開ける。」
-&ひな「それで、開けた穴にティッシュを刺せばツナの缶詰ランプの完成！」
+&You「I wonder how long the blackouts will last.... It's so dark at night without electricity...... .」
+&Hina「It's really dark... I can only rely on the light of a candle.」
+&You「I'm already using my current candle for the last time... What should I do when I finish using my current candle?」
+&Hina「You can use canned tuna as a light in addition to candles.」
+&You「Canned tuna?」
+&Hina「Yeah. Canned tuna is soaked in oil, and that oil is what makes it catch fire.」
+&You「I see. But I can't put it as a lamp, even if it lights up...」
+&Hina「No, I don't think so. It's getting dark around here, and I'm actually going to make a lamp out of a can of tuna, so watch closely.」
+&You「Ok!!!!!!!」
+&Hina「First, I will make the core of the lamp by cutting a tissue in half.」
+&Hina「The length should be about 2.5 times the height of the can of tuna.」
+&Hina「Next, make a hole in a can of tuna large enough to allow the core you just made to stick through.」
+&Hina「So, stick a tissue in the hole you drilled, and you've got yourself a canned tuna lamp!」
 
 &!charaimg_active="polygon3"="true"
 !charaimg_anim="polygon3"="Slin,0,1,EaseInOut%%4.3,2.9,1%0,1,0"
 
-&あなた「結構簡単だね！火をつけてもいい？」
-&ひな「いいよ。」
-&あなた「おお！本当にランプみたい！これでロウソクの代用ができた！」
-&ひな「灯りとして使い終わったツナの缶詰は、食べても大丈夫だからね。」
-&あなた「そうなんだね！ツナの缶詰は食料にも灯りにもなるんだね！」
+&You「That's pretty easy! Can I light a fire?」
+&Hina「All right.」
+&You「Oh! It really looks like a lamp! Now we have a candle substitute!」
+&Hina「You can eat the canned tuna when you're done using it as a light.」
+&You「I see what you mean! So canned tuna can be both food and light!」

@@ -6,17 +6,17 @@
 !charaimg_pos="polygon"="1.4,0,0"
 !charaimg_size="polygon"="3.8,5.8,1"
 
-&あなた「さて、そろそろ就寝時間なので、眠りにつくとするか」
+&You「Well, it's almost bedtime, so let's go to sleep.」
 &!charaimg_sprite="polygon2"="sleepojisan"
 !charaimg_pos="polygon2"="-10,-0.34,0"
 !charaimg_size="polygon2"="2.47,2.88,1"
 !charaimg_active="polygon2"="true"
 !charaimg_anim="polygon2"="Sinx,0,1,EaseInOut%%2.47,2.88,1%-1.33,-0.34,0"
-&隣のおじさん「ZZZ…」
+&Uncle next door「ZZZ…」
 &!charaimg_sprite="polygon"="yoko"
 !charaimg_pos="polygon"="1.4,0,0"
-&あなた「なんだ、隣の人はもう寝てたのか。」
-&あなた「んじゃ、寝るか。」
+&You「What, the person next to you was already asleep?」
+&You「Well, let's go to sleep.」
 &!charaimg_color="polygon"="0,0,0,0"
 !charaimg_sprite="sikiri"="sikiri"
 !charaimg_pos="sikiri"="10,0,0"
@@ -24,24 +24,24 @@
 !charaimg_sprite="polygon3"="neruhito"
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="5,5,1"
-&あなた「スゥー。」
+&You「Soooo.」
 &!charaimg_sprite="polygon3"="sleep"
-&あなた「なんか周りの人が気になるな」
-&隣のおじさん「ZZZ…」
+&You「I'm kind of curious about the people around me.」
+&Uncle next door「ZZZ…」
 &!charaimg_sprite="polygon3"="komatta_man2"
 !charaimg_pos="polygon3"="0.5,0,0"
 !charaimg_size="polygon3"="5,6,1"
-&あなた「ダメだ、眠れない！」
+&You「No, I can't sleep!」
 &!charaimg_sprite="polygon3"="danbo"
 !charaimg_pos="polygon3"="0.5,0,0"
 !charaimg_size="polygon3"="5,6,1"
-&あなた「そういえば、段ボールがたくさん置いてあったな。」
+&You「Come to think of it, there was a lot of cardboard on the floor.」
 &!charaimg_sprite="polygon3"="sleep"
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="5,5,1"
 !charaimg_active="sikiri"="true"
 !charaimg_anim="sikiri"="Sin,0,1,EaseInOut%%7,7,1%0,0,0"
-&あなた「よし、こうすればお隣さんが気になることは無いだろう。」
-&あなた「おやすみなさーい！」
+&You「Okay, this way the neighbors won't be bothered.」
+&You「Good night!」
 &!charaimg_sprite="polygon3"="neruhito"
-&あなた「ZZZ…」
+&You「ZZZ…」

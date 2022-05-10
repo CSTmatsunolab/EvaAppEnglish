@@ -10,15 +10,15 @@
 !charaimg_pos="polygon2"="1.43,-1.26,0"
 !charaimg_size="polygon2"="3.4,5.6,1"
 
-&避難所スタッフ「避難所では、靴を脱いで生活していただきます。」
-&あなた「そうなんですね。わかりました。」
-&避難所スタッフ「他にご不明点がありましたらお声がけください。」
+&Shelter staff「In the shelter, you will be required to take off your shoes.」
+&You「I see. I understand.」
+&Shelter staff「Please let us know if you have any other questions.」
 
 &!charaimg_sprite="polygon"="waraman"
 !charaimg_pos="polygon"="-1.6,-1.2,0"
 !charaimg_size="polygon"="3.5,5.54,1"
 
-&あなた「ありがとうございます！」
+&You「Thank you!」
 
 &!charaimg_delete="polygon2"="job_staff_jumper_man"
 &!charaimg_sprite="polygon"="anata"
@@ -29,14 +29,14 @@
 !charaimg_size="polygon3"="1.48,2.3,1"
 
 
-&あなた「さて、靴を脱いでっ……と。」
+&You「Now, take off your shoes and go to .......」
 
 &!charaimg_sprite="polygon"="komariman"
 !charaimg_pos="polygon"="-1,-1,0"
 !charaimg_size="polygon"="3.5,5.54,1"
 
-&あなた「………。」
-&あなた「そういえば、自分の靴はどこに置いておけばいいんだろう。」
+&You「………」
+&You「Come to think of it, where am I supposed to keep my shoes?」
 
 &!charaimg_pos="polygon"="-1.8,-1,0"
 &!charaimg_pos="polygon3"="-0.46,-0.58,0"
@@ -44,37 +44,37 @@
 !charaimg_pos="polygon2"="1.64,-1.24,0"
 !charaimg_size="polygon2"="3.4,5.6,1"
 
-&避難所スタッフ「どうかなさいましたか？」
-&あなた「あっ。あの。」
-&あなた「靴ってどこに置けばいいですか？」
-&避難所スタッフ「靴はビニール袋などの袋に入れて、ご自身で管理していただく形になります。」
+&Shelter staff「What's wrong?」
+&You「Ah. Um.」
+&You「Where should I put my shoes?」
+&Shelter staff「Shoes are to be placed in a plastic bag or other bag and managed by you.」
 
 &!charaimg_sprite="polygon"="anata"
 !charaimg_pos="polygon"="-1.8,-1,0"
 !charaimg_size="polygon"="3.5,5.54,1"
 
-&あなた「そうなんですね！」
+&You「I see!」
 
 &!charaimg_sprite="polygon"="komariman"
 !charaimg_pos="polygon"="-1.8,-1,0"
 !charaimg_size="polygon"="3.5,5.54,1"
 
-&あなた「でも、靴を入れられる袋を持っていなくて……。」
+&You「But I don't have a bag to put my shoes in: ......。」
 
 &!charaimg_sprite="polygon4"="shopping_bag_rejibukuro_empty"
 !charaimg_pos="polygon4"="-0.06,1.143,0"
 !charaimg_size="polygon4"="1.85,2.9,1"
 
-&避難所スタッフ「では、こちらのビニール袋をお使いください。」
+&Shelter staff「Now, please use this plastic bag.」
 
 &!charaimg_sprite="polygon"="pose_gutsposeman_egao"
 !charaimg_pos="polygon"="-1.62,-0.7,0"
 !charaimg_size="polygon"="2.6,4.44,1"
 
-&あなた「ありがとうございます！」
+&You「Thank you!」
 
 &!charaimg_sprite="polygon"="pose_gutsposeman"
 !charaimg_pos="polygon"="-1.62,-0.7,0"
 !charaimg_size="polygon"="2.6,4.44,1"
 
-&あなた「(今度からきちんと靴を入れられるビニール袋を防災バックに入れておこう！！)」
+&You「(Next time I'll put a plastic bag in my emergency bag that can hold my shoes properly!)」

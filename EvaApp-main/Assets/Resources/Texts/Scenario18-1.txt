@@ -8,17 +8,16 @@
 !wait="2"
 
 
-&避難所スタッフ「配給ですよー」
-&あなた「行かねば」
+&Shelter staff「Rationing!」
+&You「I have to go.」
 &!charaimg_anim="polygon"="ac,0,1,EaseInOut%%4.2,6.2,1%10,-0.4,0"
 !wait="2"
 &!charaimg_sprite="polygon3"="青空"
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="15.2,22,1"
 &!charaimg_anim="polygon"="ax,0,1,EaseInOut%%4.2,6.2,1%-2,-0.8,0"
-&「3時間後」
+&「3 hours later」
 &!wait="2"
-
 &!charaimg_delete="polygon3"=""
 !charaimg_sprite="polygon"="onigirinomalman"
 !charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
@@ -26,43 +25,43 @@
 !charaimg_size="polygon2"="4.2,6.2,1"
 !charaimg_anim="polygon2"="ad,0,1,EaseInOut%%4.2,6.2,1%1.6,-0.4,0"
 &!wait="1"
-&ひな「それ、配給でもらったおにぎり？」
-&あなた「そうだよ。さっきはお菓子食べたかったから取っといたんだ。」
-&あなた「ひなさん食べる？」
-&ひな「いや、食べなよ」
+&Hina「Is that a rationed rice ball?」
+&You「That's right. I was just saving it because I wanted to have a snack.」
+&You「Hina, would you like some?」
+&Hina「No, you should eat.」
 &!charaimg_sprite="polygon"="onigirikomattaman"
-&あなた「そうか」
+&You「Okay.」
 &!charaimg_sprite="polygon"="onigiriegaoman"
-&あなた「いただきまーす！」
-&ひな「おにぎりみたいな手作りの配給は」
-&ひな「貰ったらなるべく早めに食べた方がいいよ」
+&You「Bon appétit!」
+&Hina「Homemade rations like rice ball are」
+&Hina「You should eat it as soon as possible after you get it.」
 &!charaimg_sprite="polygon"="onigirinomalman"
-&あなた「えっ」
+&You「What?」
 &!charaimg_sprite="polygon5"="himoti"
 !charaimg_pos="polygon5"="0,5,0"
 !charaimg_size="polygon5"="4.5,2.4,1"
 !charaimg_anim="polygon5"="rakka,0,1,EaseInOut%%4.5,2.4,1%0,2.7,0"
-&ひな「お菓子とか缶詰みたいなものは」
-&ひな「日持ちがいいけど」
+&Hina「Things like candy and canned goods.」
+&Hina「can last a long time.」
 &!charaimg_sprite="polygon"="onigirikomattaman"
-&ひな「手作りのものは、気候や気温によって」
-&ひな「品質が落ちる可能性があるから」
-&ひな「その日のうちに食べた方がいいよ」
-&ひな「避難所で食中毒になったら大変だからね」
+&Hina「You're better off eating the handmade ones that day,」
+&Hina「because the climate and temperature」
+&Hina「can degrade the quality of the food.」
+&Hina「If you get food poisoning in a shelter, you're in trouble.」
 &!charaimg_anim="polygon5"="ae,0,1,EaseInOut%%4.5,2.4,1%0,10,0"
 &!charaimg_sprite="polygon"="onigirinomalman"
-&あなた「へー、確かにそうだね。」
+&You「Heh, you're right.」
 &!charaimg_sprite="polygon"="onigirikomattaman"
-&あなた「で、このおにぎりは大丈夫なの？」
-&ひな「手作りおにぎりの消費期限は12時間程度と言われているので」
-&ひな「大丈夫だと思うよ」
+&You「So, are these rice balls okay?」
+&Hina「The consumption period of homemade rice balls is said to be about 12 hours.」
+&Hina「I think we'll be fine.」
 &!charaimg_sprite="polygon"="onigirinomalman"
-&あなた「そうか。それじゃ、」
+&You「I see. Okay, then.」
 &!charaimg_sprite="polygon"="onigiriegaoman"
-&あなた「いただきまーす！」
-&ひな「そういえば具はツナマヨだったな。」
+&You「Bon appétit!」
+&Hina「Come to think of it, the garnish was tuna mayo.」
 &!charaimg_sprite="polygon"="onigirikomattaman"
-&あなた「...」
+&You「...」
 
 !foreground_color="0,0,0,0"
 !foreground_anim="fadeout,0,2,%0,0,0%%"

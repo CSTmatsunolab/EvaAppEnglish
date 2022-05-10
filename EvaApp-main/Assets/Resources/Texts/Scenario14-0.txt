@@ -10,30 +10,30 @@
 !charaimg_pos="polygon2"="1.2,-0.1,0"
 !charaimg_size="polygon2"="4.2,6.2,1"
 
-&ひな「家の片付けをしたら、結構汚れたね。」
-&あなた「そうだね。着替えてくる？」
+&Hina「I cleaned up the house and it got pretty dirty.」
+&You「Yes, it is. Do you want me to go get changed?」
 
 &!charaimg_sprite="polygon2"="yogorewoman1"
 !charaimg_pos="polygon2"="1.2,-0.2,0"
 !charaimg_size="polygon2"="4.2,6.2,1"
 
-&ひな「うん…。着替えはしたいんだけどね…。」
+&Hina「Yeah.... I'd like to change my clothes...」
 
 &!charaimg_sprite="polygon"="yogoreman1"
 !charaimg_pos="polygon"="-1.5,-0.2,0"
 !charaimg_size="polygon"="4.2,6.2,1"
 
 
-&あなた「？？」
-&あなた「着替える用の服が無いの？」
-&ひな「いや、服はあるんだけど…。」
-&ひな「着替えられる場所が無くて…。」
+&You「？？」
+&You「Don't you have clothes to change into?」
+&Hina「No, I have clothes...」
+&Hina「I didn't have a place to change my clothes...」
 
 &!charaimg_sprite="polygon"="yogoreman2"
 !charaimg_pos="polygon"="-1.4,-0.4,0"
 !charaimg_size="polygon"="4.2,6.2,1"
 
-&あなた「あ…。仕切りがないと丸見えだもんね…。」
+&You「Ah.... Without partitions, you can see everything....」
 
 &!charaimg_pos="polygon"="-1.6,-0.2,0"
 &!charaimg_size="polygon"="3.8,5.8,1"
@@ -43,16 +43,16 @@
 !charaimg_pos="polygon3"="0,-0.4,0"
 !charaimg_size="polygon3"="2.3,4.3,1"
 
-&避難所スタッフ「どうかしましたか？」
-&あなた「あっ！あの着替えができる場所を作ってくれませんか？」
-&ひな「人目がある場所で着替えるのには抵抗がありまして…。」
-&避難所スタッフ「わかりました！早急に着替えられる場所を作ります。」
+&Shelter staff「Is something wrong?」
+&You「Ah! Can you make that place where I can change my clothes?」
+&Hina「I am not comfortable changing in public places....」
+&Shelter staff「Okay, I understand! We will make a place for you to change your clothes as soon as possible.」
 
 &!charaimg_delete="polygon"="yogoreman2"
 &!charaimg_delete="polygon2"="yogorewoman1"
 &!charaimg_delete="polygon3"="job_staff_jumper_man"
 
-&「〜30分後〜」
+&「~30 minutes later」
 
 &!charaimg_sprite="polygon"="yogoreman"
 !charaimg_pos="polygon"="-1.6,-0.2,0"
@@ -64,14 +64,14 @@
 !charaimg_pos="polygon3"="0,-0.4,0"
 !charaimg_size="polygon3"="2.3,4.3,1"
 
-&避難所スタッフ「簡易的ではあるのですが、着替える場所を作りました。」
-&あなた・ひな「ありがとうございます！」
+&Shelter staff「We have created a place to change clothes, albeit a simple one.」
+&You・Hina「Thank you!」
 
 &!charaimg_sprite="polygon4"="shiyoutyu"
 !charaimg_pos="polygon4"="0,2,0"
 !charaimg_size="polygon4"="4.3,2.9,1"
 
-&ひな「私たちも、着替える時に置く札を作ってみました。」
-&あなた「これがあれば、着替え中に他の人が入ってくることもありません！」
-&避難所スタッフ「それはいいですね！」
-&避難所スタッフ「着替え場所には、使用中の札があると便利ですよね！！」
+&Hina「We also made a tag to put when we change clothes.」
+&You「With this, no one else can come in while you're getting dressed!」
+&Shelter staff「That's great!」
+&Shelter staff「Wouldn't it be nice to have an in-use tag at the dressing area!」

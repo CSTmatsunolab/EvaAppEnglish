@@ -7,28 +7,28 @@
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.8,4.8,1"
 
-&あなた「(あれ？ポリタンクとかを持って外に大勢人が出ていくなぁ。どうしたんだろう？)」
-&あなた「あの、外で何かあったんですか？」
+&You「(Huh? A lot of people are going outside with polyethylene tanks and such. What's going on?)」
+&You「Um, what happened out there?」
 
 &!charaimg_sprite="polygon2"="hinannsya1"
 !charaimg_pos="polygon2"="1.2,-0.8,0"
 !charaimg_size="polygon2"="4.2,6.2,1"
 
-&通りすがりの人「給水車が来たので、飲水を貰いに行ってるんですよ。」
+&通りすがりの人「The water truck is here, and I'm getting drinking water.」
 
 &!charaimg_sprite="polygon"="face_smile_man4"
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.4,4.4,1"
 
-&あなた「そうなんですね！ありがとうございます。」
+&You「I see! Thank you very much.」
 
 &!charaimg_delete="polygon2"="hinannsya1"
 &!charaimg_sprite="polygon"="komattaman_kyuusui"
 !charaimg_pos="polygon"="0.5,0.5,0"
 !charaimg_size="polygon"="4.8,6.8,1"
 
-&あなた「(僕も飲水を貰いに給水車のところに行かなきゃ！！)」
-&あなた「あっ…空のポリタンクが無いや…」
+&You「(I need to go to the water truck to get drinking water too!)」
+&You「Oh... there is no empty polyethylene tank...」
 
 &!charaimg_sprite="polygon"="komatta_man2"
 !charaimg_pos="polygon"="-0.9,0.1,0"
@@ -37,26 +37,26 @@
 !charaimg_pos="polygon2"="1.5,-0.6,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
 
-&ひな「あっ！いたいた！」
-&ひな「給水車が来たんだって。飲水を貰いに一緒に行きましょう！」
-&あなた「ひなさん！僕も今から行くところだったんだ。」
-&あなた「でも空のポリタンクが無くて…」
-&ひな「ポリタンクの代わりに、ペットボトルは？」
-&あなた「ペットボトルか。あー、空のペットボトルも無いや…」
-&あなた「これじゃあ、飲水を貰いに行けない…。どうしよう……。」
+&Hina「Ah! There you are!」
+&Hina「They said a water truck was coming. Let's go together to get drinking water!」
+&You「Hina! I was just on my way too.」
+&You「But I didn't have an empty polyethylene tank...」
+&Hina「What about plastic bottles instead of polyethylene tanks?」
+&You「Plastic bottles. Oh, I don't even have an empty plastic bottle...」
+&You「This means I can't go get drinking water.... What should I do? ......」
 
 &!charaimg_sprite="polygon3"="shopping_bag_rejibukuro_empty"
 !charaimg_pos="polygon3"="0,2,0"
 !charaimg_size="polygon3"="3.3,1.9,1"
 
-&ひな「ビニール袋はある？」
-&あなた「ん？ビニール袋？？」
-&ひな「ビニール袋も簡易的な給水袋になるんだよ。」
-&あなた「そうなんだ！ビニール袋はある！」
+&Hina「Do you have plastic bags?」
+&You「Hmm? Plastic bag?」
+&Hina「Plastic bags can be simple water supply bags, too.」
+&You「Oh yeah! I have plastic bags!」
 
 &!charaimg_sprite="polygon"="face_smile_man4"
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.4,4.4,1"
 
-&ひな「よかった！これで給水できるね！」
-&あなた「よし！行こうか！！」
+&Hina「Thank God! Now we can supply water!」
+&You「All right! Let's go!」

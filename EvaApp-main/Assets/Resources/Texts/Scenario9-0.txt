@@ -7,7 +7,7 @@
 !charaimg_pos="polygon1"="1.2,-0.5,0"
 !charaimg_size="polygon1"="4.3,6.3,1"
 
-&あなた「少し散歩してみようかな」
+&You「I think I'll take a little walk.」
 
 &!charaimg_size="polygon1"="0,0,1"
 !charaimg_sprite="polygon2"="ue"
@@ -17,11 +17,11 @@
 !charaimg_pos="polygon3"="-1.8,1,0"
 !charaimg_size="polygon3"="3.8,5.8,1"
 
-&出張で来た人「うーん…」
-&あなた「（荷物を抱えた人がいる…避難しに来たのかな？）」
-&あなた「こんにちは。何かあったんですか？」
-&出張で来た人「こんにちは。出張先でここに来たんですが、住民じゃなくても避難所を利用して良いのでしょうか？」
-&あなた「なるほど……スタッフの方に聞いてみましょう！」
+&People on business trips「Hmmm...」
+&You「（There are people with luggage... did they come to evacuate?）」
+&You「Hello. What's going on?」
+&People on business trips「Hello. I'm here on a business trip, can I use the shelter even if I'm not a resident?」
+&You「I see... ...... Ask the staff!」
 
 &!background_sprite="taiikukan"
 !charaimg_size="polygon2"="0,0,1"
@@ -30,11 +30,11 @@
 !charaimg_pos="polygon4"="1.2,-0.5,0"
 !charaimg_size="polygon4"="4.3,6.3,1"
 
-&避難所スタッフ「避難所は生活が困難になった方を受け入れる施設です。」
-&避難所スタッフ「外出先や勤務地でも、どこでも利用して大丈夫ですよ。」
+&Shelter staff「Evacuation centers are facilities that accept people who are experiencing difficulties in their daily lives.」
+&Shelter staff「You can use it anywhere, even when you are out of town or at work.」
 
 &!charaimg_sprite="polygon"="business_woman1_4_laugh"
 !charaimg_pos="polygon"="-1.2,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
 
-&出張で来た人「よかった！ありがとうございます！」
+&People on business trips「Good! Thank you!」

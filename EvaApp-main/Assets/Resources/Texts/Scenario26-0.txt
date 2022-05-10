@@ -7,91 +7,91 @@
 !charaimg_pos="polygon"="-0.08,-0.03,0"
 !charaimg_size="polygon"="2.7,4.2,1"
 
-&ひなのお婆ちゃん「はて、困ったなぁ…。」
+&Hina's grandmother「Well, I'm in trouble...」
 
 &!charaimg_pos="polygon"="1.25,-0.15,0"
 &!charaimg_sprite="polygon2"="ue_questionman"
 !charaimg_pos="polygon2"="-1.45,-0.05,0"
 !charaimg_size="polygon2"="2.7,4.3,1"
 
-&あなた「(あれ。何だかひなさんのおばあちゃん困ってそうだな。)」
+&You「(Huh. Hina's grandma seems to be in some kind of trouble.)」
 
 &!charaimg_sprite="polygon2"="anata"
 !charaimg_pos="polygon2"="-1.5,-1.34,0"
 !charaimg_size="polygon2"="4,6,1"
 
-&あなた「ひなさんのおばあちゃん、こんにちは。」
+&You「Hi Hina's grandmother.」
 
 &!charaimg_sprite="polygon"="hina_sobo1"
 !charaimg_pos="polygon"="1,-0.1,0"
 !charaimg_size="polygon"="2.7,5,1"
 
-&ひなのお婆ちゃん「………。」
+&Hina's grandmother「………」
 
 &!charaimg_sprite="polygon"="hinasobo"
 !charaimg_pos="polygon"="1.34,-1,0"
 !charaimg_size="polygon"="3.25,4.9,1"
 
-&ひなのお婆ちゃん「！！。あら、こんにちは。」
+&Hina's grandmother「!!! Oh, hello.」
 
 &!charaimg_sprite="polygon2"="ue_questionman"
 !charaimg_pos="polygon2"="-1.46,-0.05,0"
 !charaimg_size="polygon2"="2.54,4.13,1"
 
-&あなた「何かありましたか？」
+&You「What's going on?」
 
 &!charaimg_sprite="polygon"="hina_sobo1"
 !charaimg_pos="polygon"="1,-0.1,0"
 !charaimg_size="polygon"="2.7,5,1"
 
-&ひなのお婆ちゃん「ああ。飲んでいた薬を飲み終わってしまったのよ。」
+&Hina's grandmother「Oh. I finished the pills I was taking.」
 
 &!charaimg_sprite="polygon2"="anata"
 !charaimg_pos="polygon2"="-1.5,-1.34,0"
 !charaimg_size="polygon2"="4,6,1"
 
-&あなた「そうだったんですね！そしたら配給場所に新しい薬があるか一緒に見に行きましょう。」
+&You「I see you did! Then let's go together to see if there are any new medications at the rationing place.」
 
 &!charaimg_sprite="polygon"="hina_sobo_kusuri"
 !charaimg_pos="polygon"="1.07,0.2,0"
 !charaimg_size="polygon"="3.36,5.66,1"
 
-&ひなのお婆ちゃん「それがねぇ……。薬の名前を忘れてしまったのよ……。」
+&Hina's grandmother「t's............. I forgot the name of the drug. ......」
 
 &!charaimg_sprite="polygon2"="komatta_man3"
 !charaimg_pos="polygon2"="-1.16,0.26,0"
 !charaimg_size="polygon2"="2.46,4,1"
 
-&あなた「それは困りましたね……。」
+&You「That's a problem. ......」
 
 &!charaimg_sprite="polygon3"="job_staff_jumper_man"
 !charaimg_pos="polygon3"="1.13,-1.24,0"
 !charaimg_size="polygon3"="3.4,5.6,1"
 &!charaimg_delete="polygon"="hina_sobo_kusuri"
 
-&避難所スタッフ「何かお困りですか？」
+&Shelter staff「Can we help you?」
 
 &!charaimg_sprite="polygon2"="anata"
 !charaimg_pos="polygon2"="-1.32,-1.19,0"
 !charaimg_size="polygon2"="3.7,5.5,1"
 
-&あなた「あの、いつも飲んでいた薬を飲み終わってしまって。」
-&避難所スタッフ「薬の名前を教えていただければ、支援物資の中にあるか確認してきますよ。」
+&You「Um, she finished the pills she was always taking.」
+&Shelter staff「If you tell me the name of the medicine, I will see if I can find it in the relief supplies.」
 
 &!charaimg_sprite="polygon2"="komatta_man3"
 !charaimg_pos="polygon2"="-1.16,0.26,0"
 !charaimg_size="polygon2"="2.46,4,1"
 
-&あなた「それが、薬の名前が分からなくて…。」
-&避難所スタッフ「なるほど。それでお困りだったのですね。」
-&避難所スタッフ「では、どんな薬だったか調べてみましょうか。」
+&You「That's why we didn't know the name of the drug...」
+&Shelter staff「I see. So you were having trouble with that.」
+&Shelter staff「So, let's find out what kind of drug it was?」
 
 &!charaimg_sprite="polygon2"="ue_bikkuriman"
 !charaimg_pos="polygon2"="-1.33,0.08,0"
 !charaimg_size="polygon2"="2.66,4.1,1"
 
-&あなた「そんなことできるんですか！？」
-&避難所スタッフ「薬の効果や処方された際の注意点からある程度推測することができます。」
+&You「Can you do that!」
+&Shelter staff「We can infer some of this from the effectiveness of the medication and the precautions taken when it is prescribed.」
 
 &!charaimg_delete="polygon2"="ue_bikkuriman"
 &!charaimg_pos="polygon3"="-1.44,-1.16,0"
@@ -99,16 +99,16 @@
 !charaimg_pos="polygon"="1.07,0.2,0"
 !charaimg_size="polygon"="3.36,5.66,1"
 
-&避難所スタッフ「薬を処方された際に、食べてはいけない食品や果物などをお医者さんから言われましたか？」
+&Shelter staff「Did your doctor tell you what foods or fruits you should not eat when you were prescribed the medication?」
 
 &!charaimg_sprite="polygon"="hina_sobo2"
 !charaimg_pos="polygon"="1.2,-0.7,0"
 !charaimg_size="polygon"="3.7,6,1"
 
-&ひなのお婆ちゃん「はい。○○……です。」
+&Hina's grandmother「Yes. .......」
 
 &!charaimg_sprite="polygon2"="face_smile_man4"
 !charaimg_pos="polygon2"="0.12,0.5,0"
 !charaimg_size="polygon2"="3.2,5.3,1"
 
-&あなた「よかった。これで薬の名前が分かりそう！」
+&You「Good. Now she'll know the name of the drug!」
