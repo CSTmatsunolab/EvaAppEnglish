@@ -6,46 +6,46 @@
 &!charaimg_sprite="polygon2"="kanban_dohan"
 !charaimg_pos="polygon2"="0,0.3,0"
 !charaimg_size="polygon2"="4.5,4.5,1"
-&看板「同伴避難可能です」
+&SIGHBOARD「Accompanied evacuation is possible.」
 
 &!charaimg_sprite="polygon"="anata"
 !charaimg_pos="polygon"="-1.37,-0.92,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「ん？どういう意味だろう、この看板…」
+&YOU「Hmm? What do you mean, this sign...」
 
 &!charaimg_sprite="polygon2"="atsugi"
 !charaimg_pos="polygon2"="1.4,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
-&厚木さん「同伴避難とは、"ペットと同じ場所で避難する"という意味ですよ。」
+&Mr. ATSUGI「Evacuation with your pet means "to evacuate in the same place as your pet.」
 
 &!charaimg_sprite="polygon"="face_smile_man4"
 !charaimg_pos="polygon"="-1.3,0.5,0"
 !charaimg_size="polygon"="3.2,4,1"
-&あなた「あ、厚木さん！」
-&厚木さん「ちなみに"同行避難"は、ペットと一緒に "避難所まで移動すること"という意味らしいです。」
+&YOU「Ah, Mr. Atsugi!」
+&Mr. ATSUGI「By the way, "evacuation with your pet" means "moving to an evacuation shelter together".」
 
 &!charaimg_sprite="polygon"="komatta_man3"
 !charaimg_pos="polygon"="-1,0.8,0"
 !charaimg_size="polygon"="5.3,5.3,1"
-&あなた「まぎらわしいな……！」
-&厚木さん「ぱっと見わからないですよね。」
-&厚木さん「急な災害だったので、前もってこういう情報も確認すればよかったなと思いました。」
+&YOU「That's confusing. ......!」
+&Mr. ATSUGI「It's hard to tell at a glance, isn't it?」
+&Mr. ATSUGI「It was a sudden disaster, and I wished I had checked this kind of information in advance.」
 
 &!charaimg_sprite="polygon"="anata"
 !charaimg_pos="polygon"="-1.37,-1.2,0"
 !charaimg_size="polygon"="7,7,1"
-&厚木さん「まさに今、私はペットと生活しているので……」
-&厚木さん「この避難所が同伴避難可能で助かりました。」
+&Mr. ATSUGI「Right now, I'm living with my pets, so ......」
+&Mr. ATSUGI「We were very grateful that this shelter allowed us to evacuate with our companions.」
 
 &!charaimg_sprite="polygon"="pose_gutsposeman_egao"
 !charaimg_pos="polygon"="-1.12,-0.5,0"
 !charaimg_size="polygon"="6,6,1"
-&あなた「よかったですね！」
+&YOU「Good for you!」
 
 &!charaimg_sprite="polygon3"="pet_dog_mizu_tobasu"
 !charaimg_pos="polygon3"="0,0,0"
 !charaimg_size="polygon3"="3,3,1"
-&いぬ「ワンワン！」
+&DOG「Woof! Woof!」
 
 &!charaimg_sprite="polygon3"="pet_darui_dog"
 !charaimg_pos="polygon3"="1.6,2.33,0"
@@ -53,5 +53,5 @@
 &!charaimg_sprite="polygon"="face_smile_man4"
 !charaimg_pos="polygon"="-1.3,0.2,0"
 !charaimg_size="polygon"="2.5,4.5,1"
-&あなた「かわいい〜！！」
+&YOU「So cute!」
 

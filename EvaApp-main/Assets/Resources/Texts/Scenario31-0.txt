@@ -6,49 +6,49 @@
 &!charaimg_sprite="polygon2"="hinasobo"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
-&ひなのお婆ちゃん「1200ml……」
+&HINA's grandmother「1200ml……」
 
 &!charaimg_sprite="polygon"="ue_questionman"
 !charaimg_pos="polygon"="-1.37,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
-&あなた「え？ 今なんて……？」
+&YOU「What? What's ...... now?」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
-&ひな「1200ml、１日に必要な飲水の量だよ！」
+&HINA「1200 ml, that's how much drinking water I need per day!」
 
 &!charaimg_sprite="polygon"="odorokiman"
 !charaimg_size="polygon"="3,4,1"
-&あなた「うわ！ びっくりした……」
+&YOU「Wow! You scared me: ......」
 
 &!charaimg_sprite="polygon"="nomalman"
 !charaimg_pos="polygon"="-1.37,-0.73,0"
 !charaimg_size="polygon"="6,6,1"
-&あなた「1200ml？ なんでだろう？」
+&YOU「1200 ml? Why is that?」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
-&ひな「体重50kgの成人は一日2500mlほどの水分を出すらしくて、」
-&ひな「そのうち食事等で得ているのは1300ml、」
-&ひな「残り1200mlほどが飲水にあたるんだって。」
+&HINA「Apparently an adult weighing 50 kg produces about 2500 ml of water a day.」
+&HINA「1300 ml of that is obtained from food, etc,」
+&HINA「The remaining 1,200 ml or so is drinking water.」
 
 &!charaimg_sprite="polygon"="ue_bikkuriman"
 !charaimg_pos="polygon"="-1.37,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
-&あなた「へえ、そうなんだ！」
+&YOU「Heh, yeah!」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
-&ひな「避難所では普段と違う環境だから忘れちゃうこともあるかもしれないけど、」
-&ひな「一日1200mlはとれるよう意識したいよね。」
+&HINA「I know that in a shelter you might forget some things because it's a different environment than you're used to.」
+&HINA「I want to be conscious of getting 1200 ml a day.」
 
 &!charaimg_sprite="polygon2"="hinasobo"
 &!charaimg_sprite="polygon"="nomalman"
 !charaimg_pos="polygon"="-1.37,-0.73,0"
 !charaimg_size="polygon"="6,6,1"
-&ひなのお婆ちゃん「飲みすぎても体調不良の原因になったりするからね、気をつけて。」
+&HINA's grandmother「Drinking too much can cause health problems, so be careful.」
 
 &!charaimg_sprite="polygon"="waraman"
-&あなた「そうなんですね。参考になります！」
+&YOU「I see. That's helpful!」
 
-&あなた「ひなのおばあちゃんも物知りだなあ。」
+&YOU「Hina's grandmother knows things too.」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
-&ひな「でしょ！」
+&HINA「I know!」

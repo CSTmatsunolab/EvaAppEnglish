@@ -6,46 +6,46 @@
 &!charaimg_sprite="polygon2"="run_right_woman"
 !charaimg_pos="polygon2"="1.2,0.36,0"
 !charaimg_size="polygon2"="3,4,1"
-&ひな「大変！」
+&HINA「Oh my God!」
 
 &!charaimg_sprite="polygon"="ue_bikkuriman"
 !charaimg_pos="polygon"="-1.37,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
-&あなた「どうしたの？」
+&YOU「What's wrong?」
 
 &!charaimg_sprite="polygon2"="hina_shock"
 !charaimg_pos="polygon2"="1.2,0.74,0"
-&ひな「向こうで子どもが転んじゃって、骨折したみたいなんだ」
-&ひな「何か固定できるもの持ってないかな？」
+&HINA「A kid fell down over there and broke his arm.」
+&HINA「Do you have something to fix it with?」
 
 &!charaimg_sprite="polygon"="komariman"
 !charaimg_pos="polygon"="-1.37,-0.92,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「それは大変だ！」
-&あなた「えーっと、新聞紙でいいかな？」
+&YOU「That's a big deal!」
+&YOU「Let's see, can I use newspaper?」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
 
-&ひな「いいね！ 丸めたら丈夫な棒ができそう。」
-&ひな「あとは布やガムテープで固定できそうだね。早速持っていこう！」
+&HINA「Nice! If you rounded it up, it would make a sturdy stick.」
+&HINA「I guess the rest can be fixed with cloth and duct tape. Let's take it right away!」
 &!charaimg_sprite="polygon"="kiritto_man2"
-&あなた「おう！」
+&YOU「Oh!」
 
 &!charaimg_pos="polygon"="-20,-0.92,0"
 !charaimg_pos="polygon2"="-20,-0.92,0"
 
 
-&「無事に応急処置ができた…」
+&「First aid safely...」
 
 &!charaimg_pos="polygon"="-1.37,-0.92,0"
 !charaimg_sprite="polygon2"="obasan03_smile"
 !charaimg_size="polygon2"="3,4.3,1"
 !charaimg_pos="polygon2"="1.2,0.39,0"
-&女性「助かりました。ありがとうございます！」
+&WOMAN「Thank you for your help. Thank you!」
 
 &!charaimg_sprite="polygon"="pose_gutsposeman"
-&あなた「いえいえ、お互いさまですよ！」
+&YOU「You're welcome. It's mutual!」
 
 

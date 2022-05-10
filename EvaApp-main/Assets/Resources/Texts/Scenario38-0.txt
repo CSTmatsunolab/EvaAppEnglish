@@ -6,26 +6,26 @@
 &!charaimg_sprite="polygon"="kanashikuna_man"
 !charaimg_pos="polygon"="-1.38,-0.62,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「毎日なんとか過ごしてるけど、不安だな……」
-&あなた「避難所生活って、いつ終わるんだろう？」
+&YOU「I'm getting by every day, but I'm worried. ......」
+&YOU「When will life in a shelter end?」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
-&ひな「自宅周辺が安全と分かったときや、 仮設住宅が用意されたときだよ。」
+&HINA「When the area around their homes is found to be safe, or when temporary housing is prepared.」
 
-&ひな「政府からの発表とか、そういうのはないよ。」
-&ひな「避難所自体は、電気・水道などのライフラインが復旧する頃を目処に閉鎖するみたい。」
+&HINA「There's no government announcement or anything like that.」
+&HINA「The evacuation center itself is expected to close around the time when lifelines such as electricity and water are restored.」
 
 &!charaimg_sprite="polygon"="ue_bikkuriman"
 !charaimg_pos="polygon"="-1.2,0.3,0"
 !charaimg_size="polygon"="3.2,5.2,1"
-&あなた「そうなんだ。教えてくれてありがとう！」
-&あなた「早くもとの生活に戻りたいな……」
+&YOU「I see. Thanks for letting me know!」
+&YOU「I can't wait to get back to my life. ......」
 
-&ひな「そういえば、家が崩壊してたんだっけ……？」
+&HINA「Oh, did I mention that the house collapsed ......?」
 
 &!charaimg_sprite="polygon"="kanashikuna_man"
 !charaimg_pos="polygon"="-1.38,-0.62,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「そうだった……思い出したくなかった……」
+&YOU「I did. ...... didn't want to remember. ......」

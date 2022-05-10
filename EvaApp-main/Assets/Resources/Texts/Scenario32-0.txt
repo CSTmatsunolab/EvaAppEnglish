@@ -6,25 +6,25 @@
 &!charaimg_sprite="polygon2"="necchusyou_face_girl5"
 !charaimg_pos="polygon2"="1.2,0.36,0"
 !charaimg_size="polygon2"="3,4,1"
-&ひな「くらくらする……」
+&HINA「Dizzying: ......」
 
 &!charaimg_sprite="polygon"="ue_bikkuriman"
 !charaimg_pos="polygon"="-1.37,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
-&あなた「え！？ 大丈夫……？」
+&YOU「Oh, my God! Are you okay?」
 
-&ひな「濡れたタオルを持ってきてくれない？」
+&HINA「Can you bring me a wet towel?」
 
 &!charaimg_sprite="polygon"="odorokiman"
 !charaimg_size="polygon"="3,4,1"
-&あなた「ここにあるよ！ 首周りに当てて冷やそう」
+&YOU「Here it is! Let's put it around your neck to cool you down.」
 
 &!charaimg_sprite="polygon"="necchusyou_face_boy2"
-&ひな「ありがとう！」
+&HINA「Thank you!」
 &!charaimg_sprite="polygon2"="necchusyou_face_girl4"
-&ひな「熱中症が疑われる場合は……」
-&あなた「……！？」
-&ひな「首周り・わきの下、 足のつけ根を冷やすと……」
+&HINA「If heat stroke is suspected: ......」
+&YOU「……！？」
+&HINA「Cooling around the neck, armpits, and the base of the legs can be done at ......」
 
 &!charaimg_sprite="polygon"="odorokiman"
-&あなた「（こんなときまで知識を……すごい……！）」
+&YOU「(Even at a time like this, knowledge is ...... amazing ......!)」

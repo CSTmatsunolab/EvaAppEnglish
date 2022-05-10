@@ -19,37 +19,37 @@
 !charaimg_size="polygon5"="4,6,1"
 
 &!charaimg_anim="polygon2"="anix,0,1,EaseInOut%%1.2,6.3,1%-1.4,-0.2,0"
-&あなた「よーやく、仮設住宅に着いたぞ。」
+&YOU「Finally, we're at the temporary housing.」
 
 &!charaimg_sprite="polygon2"="ryukku_man_komari"
 !charaimg_pos="polygon2"="0,0.4,0"
 !charaimg_size="polygon2"="1.2,4.3,1"
 
-&あなた「でもやっぱり、自分の家に帰りたいな。」
+&YOU「But I still want to go back to my own home.」
 
-&？？？「よくぞ、クイズに全問正解したな。」
-&あなた「ん？空から声が！！」
+&？？？「I'm amazed you got all the questions right on the quiz.」
+&YOU「Hmm? A voice from the sky!」
 
 &!charaimg_anim="polygon5"="kourin,0,1,EaseInOut%%4,6,1%1,1,0"
 &!charaimg_sprite="polygon2"="ryukku_man_odoroki"
-&あなた「うわっ！神龍だ！」
-&神龍「クイズに全問正解した褒美に、」
-&神龍「願いを一つ叶えてやろう。」
+&YOU「Whoa! It's a divine dragon!」
+&DRAGON BOAT「As a reward for answering all the questions correctly on the quiz,」
+&DRAGON BOAT「I'll grant you one wish.」
 &!charaimg_sprite="polygon2"="ryukku_man_egao"
-&あなた「5000兆円くれ！お願いします！」
-&神龍「それは無理だ。」
+&YOU「Give me 500 trillion yen! Please!」
+&DRAGON BOAT「That's impossible.」
 &!charaimg_sprite="polygon2"="ryukku_man_komari"
-&あなた「そっか...」
+&YOU「I see...」
 &!charaimg_sprite="polygon2"="ryukku_man_egao"
-&あなた「じゃあ家を治してくれる？」
-&神龍「わかった」
-&あなた「やったぜ」
+&YOU「Then can you fix my house?」
+&DRAGON BOAT「Okay, okay.」
+&YOU「I got it.」
 
 &!charaimg_sprite="polygon0"="青空"
 !charaimg_pos="polygon0"="0,0,0"
 !charaimg_size="polygon0"="15.2,22,1"
 
-&「5分後」
+&「5 minutes later」
 &!charaimg_delete="polygon3"="Prefab"
 &!charaimg_delete="polygon5"="shenron"
 &!charaimg_pos="polygon2"="-10,-0.2,0"
@@ -59,12 +59,12 @@
 &!charaimg_anim="polygon2"="anix,,,Replay"
 
 
-&あなた「やったー！久しぶりの我が家だ！」
+&YOU「Yay!!! Home after all these years!」
 
 &!charaimg_anim="poly"="anp,0,1,EaseInOut%%22,22,1%0,-5,0"
 &!charaimg_anim="polygon2"="anku,0,1,EaseInOut%%1.2,6.3,1%-1.4,-8,0"
 
-&「全問正解おめでとうございます！！」
+YOU「Congrats on getting all the questions right!」
 
 
 

@@ -6,54 +6,54 @@
 &!charaimg_sprite="polygon"="komatta_man3"
 !charaimg_pos="polygon"="0.35,1.37,0"
 !charaimg_size="polygon"="6,6,1"
-&あなた「非常食の缶詰って、色んな種類があるな〜」
-&あなた「もしものときのために、もっと色々注意して買えばよかった。」
+&YOU「There are many kinds of canned emergency rations.」
+&YOU「I should have taken more precautions and bought more things if I had to.」
 
 &!charaimg_sprite="polygon"="komatta_man2"
 !charaimg_size="polygon"="5,5,1"
 !charaimg_pos="polygon"="0.35,0.81,0"
-&あなた「なにより…… 今回、缶詰は持ってきたのに缶切りを忘れてしまったんだよな……」
-&あなた「次買うときは、缶切りを用意しないと！」
+&YOU「Most importantly, ...... this time I brought the canned goods but forgot the can opener. ......」
+&YOU「Next time I buy one, I'll need a can opener!」
 &!charaimg_sprite="polygon"="pose_gutsposeman"
 !charaimg_pos="polygon"="0,0,0"
 !charaimg_size="polygon"="6.5,6.5,1"
-&あなた「そして、手で開けられる缶詰も探してみよう！」
+&YOU「And look for cans that can be opened by hand!」
 
 &!charaimg_sprite="polygon"="ue_questionman"
 !charaimg_pos="polygon"="-1.48,-0.08,0"
 !charaimg_size="polygon"="5,5,1"
-&あなた「そういえばひなさんは、缶詰のどこを重視して買ってる？」
+&YOU「Speaking of which, Hina, what do you emphasize in buying canned food?」
 
 
 &!charaimg_pos="polygon"="-1.48,-0.08,0"
 &!charaimg_sprite="polygon2"="hina_egao"
 !charaimg_pos="polygon2"="1,0.12,0"
 !charaimg_size="polygon2"="4.3,4.3,1"
-&ひな「とにかく味、量、安さかな！」
+&HINA「Anyway, taste, quantity, and cheapness!」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_size="polygon2"="4.3,6.3,1"
 &!charaimg_sprite="polygon"="odorokiman"
 !charaimg_pos="polygon"="-1.37,0.2,0"
 !charaimg_size="polygon"="3,4,1"
-&あなた「意外だ……」
+&YOU「Surprising: ......」
 
-&ひな「非常時にならないまま消費期限が近くなったら、普段の食事で使えばいいしね！」
-&ひな「ローリングストックって知ってる？」
+&HINA「And if it gets close to its expiration date without becoming an emergency, we can use it in our regular meals!」
+&HINA「Do you know what rolling stock is?」
 
 &!charaimg_sprite="polygon"="necchusyou_face_boy2"
-&あなた「え？ し、知らない……」
-&あなた「でも、荷物が重くならないかな？」
+&YOU「Huh? Shh, I don't know ......」
+&YOU「But won't it weigh down my luggage?」
 
-&ひな「たしかにそうだね。でも、好きな食べ物とかおいしいものは癒しになるよ。」
+&HINA「That's true. But favorite foods and good food are healing.」
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
 !charaimg_pos="polygon2"="1.11,-0.44,0"
 !charaimg_size="polygon2"="6,6,1"
-&ひな「これを持っていけるよう日々鍛えているんだ！」
+&HINA「I work out every day so I can bring this with me!」
 
 &!charaimg_sprite="polygon"="odorokiman"
 !charaimg_pos="polygon"="-1.37,0.2,0"
 !charaimg_size="polygon"="4.2,4.2,1"
-&あなた「意外すぎる……！！」
+&YOU「Too unexpected ......!」
 
-&「※ローリングストックとは… 食材を日常的に使いながら、買い足すことで備蓄する方法。」
+&「*Rolling stock is a method of stockpiling foodstuffs by buying more while using them on a daily basis.」

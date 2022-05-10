@@ -8,22 +8,22 @@
 !charaimg_pos="polygon4"="-0.2,0.2,0"
 !charaimg_size="polygon4"="5,3,1"
 
-&あなた「なんだか最近元気が出ないな……」
-&あなた「全然この状況に慣れなくて落ち着かないし……」
-&あなた「食事や運動をおろそかにしたのも悪かったのかな……」
+&YOU「I'm feeling kind of down lately: ......」
+&YOU「I'm not used to this situation at all, and I'm not comfortable with it. ......」
+&YOU「I guess it was bad enough that I neglected diet and exercise. ......」
 
 &!charaimg_sprite="polygon4"="sick_kaoiro_man"
 !charaimg_size="polygon4"="5.4,3.5,1"
-&あなた「う……くらくらする……」
+&YOU「U...... dizzy......」
 
 &!charaimg_pos="polygon4"="-1.2,0.2,0"
 !charaimg_sprite="polygon3"="job_staff_jumper_man"
 !charaimg_pos="polygon3"="1.2,-0.5,0"
 !charaimg_size="polygon3"="7,7,1"
 
-&スタッフ「どうしました……！？」
-&スタッフ「大丈夫ですか！？　顔色が……！」
-&スタッフ「早く救急車を！」
+&STAFF「What's up ......!」
+&STAFF「Are you okay!　Your complexion is ......!」
+&STAFF「Quick, call an ambulance!」
 
 
 &!wait="2"
@@ -74,18 +74,18 @@
 !charaimg_pos="polygon4"="-1.2,0.2,0"
 !charaimg_size="polygon4"="5.4,3.5,1"
 
-&あなた「はっ……！」
+&YOU「Ha! ......!」
 
 &!charaimg_sprite="polygon3"="job_kyukyutai"
 !charaimg_pos="polygon3"="1.2,-0.5,0"
 !charaimg_size="polygon3"="7,7,1"
 
-&救急隊員「大丈夫ですか？」
-&あなた「一体どうなって……」
-&救急隊員「避難所で倒れたんですよ。でももう大丈夫です」
-&救急隊員「大変かと思いますが、ちゃんとご飯や水分をとるように気をつけましょう」
-&救急隊員「適度に運動して、健康的に過ごしてくださいね」
-&あなた「わかりました……ありがとうございます！」
+&EMERGENCY RESCUE TEAM MEMBER「Are you okay?」
+&YOU「What the hell is going on...」
+&EMERGENCY RESCUE TEAM MEMBER「I collapsed at the shelter. But I'm fine now.」
+&EMERGENCY RESCUE TEAM MEMBER「I know it's hard, but take care to eat and drink water properly.」
+&EMERGENCY RESCUE TEAM MEMBER「Exercise moderately and stay healthy!」
+&YOU「Okay. ...... Thank you!」
 
 
 &!wait="3"
@@ -109,8 +109,8 @@
 !charaimg_pos="polygon3"="-1,0.4,0"
 !charaimg_size="polygon3"="5,6,1"
 
-&あなた「（あ……僕の家だ）」
-&あなた「（よし、いつか帰れる日まで……頑張って健康的に過ごすぞ！）」
+&YOU「（Oh, ...... that's my house)」
+&YOU「(Okay, until one day I can go home ...... I'm going to work hard and stay healthy!)」
 &!charaimg_anim="polygon2"="kyu,,,Replay"
 
 &!wait="3"

@@ -10,23 +10,23 @@
 &!charaimg_sprite="polygon2"="necchusyou_face_girl5"
 !charaimg_pos="polygon2"="1.35,0.21,0"
 !charaimg_size="polygon2"="6,4,1"
-&あなた「暑い……あつすぎる……」
+&OU「It's too hot......It's too hot......」
 
 &!charaimg_sprite="polygon2"="necchusyou_face_girl4"
-&ひな「な……夏に注意すべきものといえば？」
+&HINA「What are some of the things to watch out for in the summer? ......」
 
 &!charaimg_sprite="polygon"="necchusyou_face_boy2"
-&あなた「もちろん、熱中症・夏バテ！」
+&YOU「And of course, heat stroke/summer fatigue!」
 
 &!charaimg_sprite="polygon2"="necchusyou_face_girl5"
-&ひな「そうだね。とくに避難所だと、トイレに行く回数を減らすために水分補給をおろそかにしがちなんだって。」
+&HINA「That's right. Especially in shelters, people tend to neglect hydration in order to reduce the number of trips to the restroom.」
 
 &!charaimg_sprite="polygon2"="bikkuri_woman"
 !charaimg_pos="polygon2"="1.35,0,0"
 !charaimg_size="polygon2"="6,7,1"
-&ひな「水を飲みすぎてもよくないけど意識して飲んで、熱中症に気をつけようね！」
+&HINA「I know we shouldn't drink too much water, but we should be conscious of it, and watch out for heat stroke!」
 
 &!charaimg_sprite="polygon"="odorokiman"
-&あなた「トイレか……避難所だとトイレにこまめに行ったり水をこまめに飲んだり、普段よりもっと大変だな……！」
+&YOU「Toilets or ...... shelters, it's even harder than usual to go to the bathroom often, drink water often, etc. ......!」
 &!charaimg_sprite="polygon"="necchusyou_face_boy5"
-&あなた「とにかくトイレの災難はもう嫌だ〜〜！！」
+&YOU「Anyway, no more bathroom mishaps~!」

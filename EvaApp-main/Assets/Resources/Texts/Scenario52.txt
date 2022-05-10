@@ -15,28 +15,28 @@
 !charaimg_size="polygon3"="3.5,4.6,1"
 
 &!charaimg_anim="polygon2"="anix,0,1,EaseInOut%%1.2,6.3,1%-1.4,-0.2,0"
-&あなた「よーやく、仮設住宅に着いたぞ。」
+&YOU「Finally, we're at the temporary housing.」
 
 &!charaimg_sprite="polygon2"="ryukku_man_komari"
 !charaimg_pos="polygon2"="0,0.4,0"
 !charaimg_size="polygon2"="1.2,4.3,1"
 
-&あなた「でもやっぱり、自分の家に帰りたいな。」
+&YOU「But I still want to go back to my own home.」
 
 &!charaimg_sprite="polygon2"="ryukku_man"
 !charaimg_pos="polygon2"="0,0.4,0"
 !charaimg_size="polygon2"="1.2,4.3,1"
 
-&あなた「家の修理が終わるまで、仮設住宅暮らし頑張らないとな！！」
+&YOU「Gotta hang in there living in temporary housing until the house is repaired!」
 &!charaimg_anim="polygon2"="aniz,0,1,EaseInOut%%1.2,6.3,1%6,-0.2,0"
 
-&あなた「トイレはどこだ？」
+&YOU「Where's the bathroom?」
 
 &!charaimg_anim="poly"="anp,0,1,EaseInOut%%22,22,1%0,-5,0"
 
 &!charaimg_anim="polygon3"="ano,0,1,EaseInOut%%3.5,4.6,1%1.36,-9,0"
 
-&「次は全問正解を目指して、頑張りましょう！」
+&「Next time, let's try to get all the questions right!」
 
 
 

@@ -6,8 +6,8 @@
 &!charaimg_sprite="polygon"="agura_man"
 !charaimg_pos="polygon"="0,0.2,0"
 !charaimg_size="polygon"="3.8,5.8,1"
-&あなた「こうやって学校の体育館で過ごしているけど……」
-&あなた「この学校って、避難所になっている間も授業があるのかな？」
+&YOU「This is how I spend my time in the school gym, but ......」
+&YOU「Does this school have classes while it is a shelter?」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
@@ -17,23 +17,23 @@
 !charaimg_pos="polygon"="-1.6,-1.2,0"
 !charaimg_size="polygon"="5.5,5.54,1"
 
-&ひな「それはね……」
-&ひな「避難者がいる場合でも、学校の授業が再開することもあるらしいよ。」
+&INA「It is. ......」
+&HINA「I've heard that even when there are evacuees, school classes may reopen.」
 
 
 &!charaimg_sprite="polygon"="ue_bikkuriman"
 !charaimg_pos="polygon"="-1.2,0.3,0"
 !charaimg_size="polygon"="3.2,5.2,1"
-&あなた「え！？そうなんだ！」
+&YOU「Eh! Oh yeah!」
 
-&ひな「阪神・淡路大震災では、 新学期を迎えた後も、」
-&ひな「数百人の避難者が生活いるなかで学校教育がなされたケースも珍しくないらしいよ。」
+&HINA「In the aftermath of the Great Hanshin-Awaji Earthquake, even after the start of a new school year」
+&HINA「It is not uncommon for schooling to be provided for hundreds of evacuees.」
 
 &!charaimg_sprite="polygon"="kanashikuna_man"
 !charaimg_pos="polygon"="-1.38,-0.62,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「知らなかった……大変だな。」
+&YOU「I didn't know that. ...... That's a lot of work.」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
-&ひな「先生方への負担も大きいし、一刻も早くこの生活が終わるといいね。」
-&あなた「そうだね……。」
+&HINA「It's a big burden on the teachers and I hope this life ends as soon as possible.」
+&YOU「Yes, .......」

@@ -6,56 +6,56 @@
 &!charaimg_sprite="polygon2"="kanban_gaikokujin_question"
 !charaimg_pos="polygon2"="0.93,0.12,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
-&外国人男性「……」
+&FOREIGN MALE「……」
 
 &!charaimg_sprite="polygon"="anata"
 !charaimg_pos="polygon"="-1.37,-1.23,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「（あ、外国人の方がいるな）」
-&外国人男性「……」
+&YOU「(Oh, there's the foreigner.)」
+&FOREIGN MALE「……」
 
 &!charaimg_sprite="polygon"="komatta_man3"
 !charaimg_pos="polygon2"="20,-0.5,0"
 !charaimg_pos="polygon"="0.56,1.02,0"
 !charaimg_size="polygon"="6,6,1"
-&あなた「（たぶん言語が通じなくて困っているみたいだ…… なんとか助けられないかな？）」
+&YOU「(Maybe he's having trouble communicating in the language: ...... Can you help him somehow?)」
 
 &!charaimg_sprite="polygon"="smartphone_photo_man_tate"
 !charaimg_pos="polygon"="0.44,0.7,0"
 !charaimg_size="polygon"="5,5,1"
-&あなた「こういうときは……」
+&YOU「In this kind of situation, you can go to ......」
 
 &!charaimg_sprite="polygon"="kiritto_man2"
 !charaimg_pos="polygon"="-1.37,-0.92,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「通訳を依頼！いるかな？」
+&YOU「I need an interpreter! Is there one?」
 &!charaimg_sprite="polygon2"="hinasobo"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="4.3,6.3,1"
-&あなた「そういえばひなちゃんのお婆ちゃんは外国語が得意だって言っていたな。」
+&YOU「Come to think of it, Hina-chan's grandmother said she was good at foreign languages.」
 
 &!charaimg_pos="polygon2"="20,-0.5,0"
 &!charaimg_sprite="polygon"="kiritto_man2"
 !charaimg_pos="polygon"="-1.37,-0.92,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「防災局の二ヶ国語放送！」
+&YOU「Bilingual broadcasts from the Disaster Prevention Bureau!」
 &!charaimg_sprite="polygon2"="radio"
 !charaimg_pos="polygon2"="1.2,-0.5,0"
 !charaimg_size="polygon2"="2,2,1"
-&あなた「放送を聞ける環境を用意できた。 補助として、インターネット上の外国人向けの情報サイトを紹介しよう。」
+&YOU「I was able to prepare an environment where I could listen to the broadcast. As an aid, we would like to introduce some information sites for foreigners on the Internet.」
 
 &!charaimg_pos="polygon2"="20,-0.5,0"
 
 &!charaimg_sprite="polygon"="kiritto_man2"
 !charaimg_pos="polygon"="-1.37,-0.92,0"
 !charaimg_size="polygon"="7,7,1"
-&あなた「外国人移住者ネットワークの紹介！」
-&あなた「インターネットで見つけたけど、すでに知っているかな？」
+&YOU「Introducing the Foreign Migrant Network!」
+&YOU「I found it on the Internet, but do you already know about it?」
 
 &!charaimg_pos="polygon"="0,-0.5,0"
-&あなた「調べたものが全部揃っている……！」
+&YOU「Everything you've looked up is here: ......!」
 &!charaimg_sprite="polygon"="pose_gutsposeman_egao"
-&あなた「きっと大丈夫だ。これを持ってスタッフさんに相談しよう。」
-&あなた「（あの人も安心して避難生活を送れたらいいな。）」
+&YOU「It will be fine. Let's take this and talk to the staff.」
+&YOU「（I hope that person feels safe and secure in their evacuation.)」
 &!charaimg_sprite="polygon"="kiritto_man2"
-&あなた「（自分も、ちゃんと外国語を勉強しよう……！）」
+&YOU「(I, too, should learn a foreign language properly: ......!)」

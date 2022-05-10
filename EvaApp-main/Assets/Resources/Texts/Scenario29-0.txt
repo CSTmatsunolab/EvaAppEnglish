@@ -7,95 +7,95 @@
 !charaimg_pos="polygon"="0,0,0"
 !charaimg_size="polygon"="3.2,4.9,1"
 
-&あなた「あー。寒い寒い……。」
-&あなた「冬の避難所がこんなに寒いとは思いもしなかった…。」
-&あなた「こんなに寒いと精神的にも辛くなってくる………。」
-&あなた「もう何日も誰とも話してない気もするし……。」
+&YOU「Ahhh. Cold, cold, cold. ......」
+&YOU「I had no idea that a winter shelter could be so cold...」
+&YOU「It's mentally hard when it's this cold. .........」
+&YOU「It feels like I haven't talked to anyone for days. ......」
 
 &!charaimg_pos="polygon"="-1.47,0,0"
 &!charaimg_sprite="polygon2"="bikkuri_woman"
 !charaimg_pos="polygon2"="1.52,-0.24,0"
 !charaimg_size="polygon2"="3.86,5.48,1"
 
-&ひな「ちょっと！大丈夫！？」
+&HINA「Hey! Hey! Are you okay!」
 
 &!charaimg_sprite="polygon"="sick_kaoiro_man"
 !charaimg_pos="polygon"="-1.57,0,0"
 !charaimg_size="polygon"="2.8,4.1,1"
 
-&あなた「……。ああ。ひなさん…。」
+&YOU「....... Oh. Hina-san...」
 
 &!charaimg_sprite="polygon2"="hina_shock"
 !charaimg_pos="polygon2"="1.65,0.12,0"
 !charaimg_size="polygon2"="2.4,3.9,1"
 
-&ひな「どうしたの！？すごい辛そうだけど…？」
-&あなた「あ…。あまりの寒さにやられちゃって……。」
+&HINA「What's wrong? You look like you're in a lot of pain...?」
+&YOU「Oh... I got hit by too much cold. ......」
 
 &!charaimg_sprite="polygon2"="bikkuri_woman"
 !charaimg_pos="polygon2"="1.52,-0.24,0"
 !charaimg_size="polygon2"="3.86,5.48,1"
 
-&ひな「あら。そうなの…。」
+&HINA「Oops. I see...」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
 !charaimg_pos="polygon2"="1.4,-1.28,0"
 !charaimg_size="polygon2"="3.4,5.6,1"
 
-&ひな「そんなあなたに朗報よ！」
+&HINA「Well, I have good news for you!」
 
 &!charaimg_sprite="polygon"="ue_questionman"
 !charaimg_pos="polygon"="-1.48,-0.08,0"
 !charaimg_size="polygon"="2.74,4.15,1"
 
-&あなた「？？？」
+&YOU「？？？」
 
 &!charaimg_sprite="polygon3"="takibi"
 !charaimg_pos="polygon3"="0,2,0"
 !charaimg_size="polygon3"="2.45,3.9,1"
 
-&ひな「これから外で焚き火をする予定なの！！」
+&HINA「We are going to have a bonfire outside now!!」
 
 &!charaimg_sprite="polygon"="sick_kaoiro_man"
 !charaimg_pos="polygon"="-1.57,0,0"
 !charaimg_size="polygon"="2.8,4.1,1"
 
-&あなた「………。」
-&あなた「焚き火のどこが朗報なの。」
+&YOU「………。」
+&YOU「What is the good news about the bonfire?」
 
 &!charaimg_sprite="polygon"="kanashinaki_man"
 !charaimg_pos="polygon"="-1,0.2,0"
 !charaimg_size="polygon"="3.25,4.9,1"
 
-&あなた「この寒空の下で焚き火をしても全然嬉しくない！！」
+&YOU「Not at all happy to have a bonfire in this cold weather!」
 
 &!charaimg_sprite="polygon2"="pose_touch_hand_man_woman"
 !charaimg_pos="polygon2"="1.56,-0.76,0"
 !charaimg_size="polygon2"="3.76,6.37,1"
 
-&ひな「そんなことないわ。」
-&ひな「焚き火には精神安定につながると言われているのよ。」
-&ひな「あと、充分に体を温めることができるから基礎代謝を上げることができるの。」
+&HINA「That's not true.」
+&HINA「It's said that bonfires have a tranquilizing effect.」
+&HINA「Also, it can warm up the body enough to raise the basal metabolism.」
 
 &!charaimg_sprite="polygon2"="hina_egao"
 !charaimg_pos="polygon2"="1.73,-0.5,0"
 !charaimg_size="polygon2"="1.98,4,1"
 
-&ひな「だからきっと、そのメンタルの部分と寒さも焚き火で少しは楽になるわよ。」
+&HINA「So I bet that mental part and the cold will be a little easier with the bonfire.」
 
 &!charaimg_sprite="polygon"="komatta_man3"
 !charaimg_pos="polygon"="-1.11,0.3,0"
 !charaimg_size="polygon"="3.34,4.84,1"
 
-&あなた「……。そうかな…。」
-&ひな「実際に行ってみましょう！」
-&あなた「うーん…。でも……。」
+&YOU「....... I don't think so...」
+&HINA「Let's actually go there!」
+&YOU「Hmmm... But you can find it at .......」
 
 &!charaimg_sprite="polygon2"="pose_gutspose_woman"
 !charaimg_pos="polygon2"="1.53,-1.12,0"
 !charaimg_size="polygon2"="3.4,5.6,1"
 
-&ひな「いいから！行くよ！！」
+&HINA「Just go! Let's go!」
 
 &!charaimg_delete="polygon"="komatta_man3"
 &!charaimg_delete="polygon2"="pose_gutspose_woman"
@@ -117,9 +117,9 @@
 !charaimg_size="polygon2"="2.2,3.8,1"
 
 
-&あなた「ほんとだ。焚き火を見てると落ち着く。」
-&ひな「ねっ！そうでしょ。」
-&あなた「体も温まって、全身の血が巡ってる感覚がする。」
-&あなた「それに、久しぶりに友達とも話せた！」
-&ひな「それはよかった！」
-&あなた「焚き火は、気持ちと体の不調を改善してくれるんだね！！」
+&YOU「It's true. Seeing a bonfire is calming.」
+&HINA「Hey! I know, right?」
+&YOU「My body warms up and I can feel the blood circulating throughout my body.」
+&YOU「Plus, I got to talk to a friend for the first time in ages!」
+&HINA「That's great!」
+&YOU「I see the bonfire helps you feel and look better!!!」
