@@ -36,14 +36,14 @@ public class InputText : MonoBehaviour
             Hand.SetActive(true);
             background.sprite = smartphone;
             submit.GetComponent<Image>().sprite = black;
-            titletext.text = "<color=#FF0000>避難所名</color>を\n入力してください(任意)";
-            input.text = "避難所名";
+            titletext.text = "Enter <color=#FF0000>the shelter name</color>(optional)";
+            input.text = "Shelter name";
         }
         if(introcheck == 1){    //パネル表示２回目
             background.sprite = syomei;
             submit.GetComponent<Image>().sprite = brown;
-            titletext.text = "<color=#FF0000>名前</color>を\n入力してください(任意)";
-            input.text = "名前";
+            titletext.text = "Enter\n<color=#FF0000>your name</color>(optional)";
+            input.text = "Your name";
         }
     }
 
