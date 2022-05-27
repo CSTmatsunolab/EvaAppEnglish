@@ -13,7 +13,7 @@ public class DayText: MonoBehaviour
         // オブジェクトからTextコンポーネントを取得
         Text sta_text = name_object.GetComponent<Text>();
         // テキストの表示を入れ替える
-        sta_text.text = Pdata.GetComponent<Player_Data>().PlayerData[1][5] + "日目" ;
+        sta_text.text = "Day" + Pdata.GetComponent<Player_Data>().PlayerData[1][5]  ;
     }
 
     // 更新

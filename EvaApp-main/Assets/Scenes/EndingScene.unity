@@ -378,7 +378,7 @@ PrefabInstance:
     - target: {fileID: 659712607328631527, guid: 46b717d7d82e94f66ae9a83d548a578d,
         type: 3}
       propertyPath: m_Text
-      value: "\u51FA\u5178"
+      value: Authority
       objectReference: {fileID: 0}
     - target: {fileID: 8663209580877644089, guid: 46b717d7d82e94f66ae9a83d548a578d,
         type: 3}
@@ -519,7 +519,7 @@ PrefabInstance:
     - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
         type: 3}
       propertyPath: m_Text
-      value: "\u907F\u96E3\u6240\u30B9\u30BF\u30C3\u30D5"
+      value: Shelter staff
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
@@ -1559,7 +1559,7 @@ PrefabInstance:
     - target: {fileID: 659712607328631527, guid: 46b717d7d82e94f66ae9a83d548a578d,
         type: 3}
       propertyPath: m_Text
-      value: "\u958B\u767A\u8005"
+      value: Developer
       objectReference: {fileID: 0}
     - target: {fileID: 8663209580877644089, guid: 46b717d7d82e94f66ae9a83d548a578d,
         type: 3}
@@ -1864,7 +1864,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 701d8b766d7ca487bb4b035967ce3384, type: 3}
-    m_FontSize: 80
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -2004,7 +2004,7 @@ PrefabInstance:
     - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
         type: 3}
       propertyPath: m_Text
-      value: "\u539A\u6728\u3055\u3093"
+      value: Mr. Atsugi
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
@@ -2128,7 +2128,7 @@ PrefabInstance:
     - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
         type: 3}
       propertyPath: m_Text
-      value: "\u5B50\u4F9BA"
+      value: Kid A
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
@@ -2981,7 +2981,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 701d8b766d7ca487bb4b035967ce3384, type: 3}
-    m_FontSize: 100
+    m_FontSize: 80
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -3407,7 +3407,7 @@ PrefabInstance:
     - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
         type: 3}
       propertyPath: m_Text
-      value: "\u3072\u306A\u306E\u304A\u5A46\u3061\u3083\u3093"
+      value: Hina's Grandma.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
@@ -3843,7 +3843,7 @@ PrefabInstance:
     - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
         type: 3}
       propertyPath: m_Text
-      value: "\u901A\u308A\u3059\u304C\u308A\u306E\u4EBA"
+      value: Bystander
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
@@ -4439,7 +4439,7 @@ PrefabInstance:
     - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
         type: 3}
       propertyPath: m_Text
-      value: "\u3072\u306A"
+      value: Hina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
@@ -10096,6 +10096,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\u3042\u306A\u305F"
       objectReference: {fileID: 0}
+    - target: {fileID: 7538267218557251747, guid: a3f2b70232f904f1d82772fa3f82fb98,
+        type: 3}
+      propertyPath: m_Text
+      value: You
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3f2b70232f904f1d82772fa3f82fb98, type: 3}
 --- !u!224 &4014608883528021059 stripped
@@ -10227,6 +10232,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 659712607328631527, guid: 46b717d7d82e94f66ae9a83d548a578d,
+        type: 3}
+      propertyPath: m_Text
+      value: Performer
       objectReference: {fileID: 0}
     - target: {fileID: 8663209580877644089, guid: 46b717d7d82e94f66ae9a83d548a578d,
         type: 3}

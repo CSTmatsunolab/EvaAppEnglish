@@ -398,7 +398,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 398a9657efd5c45a8bc696fb950370e7, type: 3}
-    m_FontSize: 60
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -738,7 +738,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30BF\u30A4\u30C8\u30EB\u3078\u3082\u3069\u308B"
+  m_Text: Back to Title
 --- !u!222 &199636372
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2777,10 +2777,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 398a9657efd5c45a8bc696fb950370e7, type: 3}
-    m_FontSize: 78
+    m_FontSize: 60
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 7
+    m_MinSize: 0
     m_MaxSize: 95
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -2956,7 +2956,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30D8\u30EB\u30D7"
+  m_Text: Help
 --- !u!222 &879382345
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4354,7 +4354,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30A4\u30D9\u30F3\u30C8\u30EA\u30B9\u30C8"
+  m_Text: Event list
 --- !u!222 &1265415429
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5713,7 +5713,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u9589\u3058\u308B"
+  m_Text: Close
 --- !u!222 &1732653935
 CanvasRenderer:
   m_ObjectHideFlags: 0

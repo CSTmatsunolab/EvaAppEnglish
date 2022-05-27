@@ -271,7 +271,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: afdce4ac04f31433e97c1c9ec57e9d1f, type: 3}
-    m_FontSize: 83
+    m_FontSize: 67
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -396,7 +396,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: afdce4ac04f31433e97c1c9ec57e9d1f, type: 3}
-    m_FontSize: 80
+    m_FontSize: 67
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -2704,7 +2704,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u98DF\u4E8B\u306E\u6642\u9593"
+  m_Text: Mealtime
 --- !u!222 &1392557829
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3344,7 +3344,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: afdce4ac04f31433e97c1c9ec57e9d1f, type: 3}
-    m_FontSize: 130
+    m_FontSize: 110
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0

@@ -31,14 +31,14 @@ public class EatMainPanel : MonoBehaviour
         k = int.Parse(Pdata.GetComponent<Player_Data>().PlayerData[1][5]);
         l = int.Parse(Pdata.GetComponent<Player_Data>().PlayerData[1][1]);
         m = int.Parse(Pdata.GetComponent<Player_Data>().PlayerData[1][2]);
-        ktext.text= x.ToString() + "個";
+        ktext.text= x.ToString() + "cans";
     }
 
     public void PlusButtondown()    {
         if((i>0)&&(x<3))        {
             --i;//貯蓄を減らす
             ++x;//食べる量を増やす
-            ktext.text= x.ToString() + "個";
+            ktext.text= x.ToString() + "cans";
         }
     }
 
@@ -47,7 +47,7 @@ public class EatMainPanel : MonoBehaviour
         {
             ++i;//貯蓄を増やす
             --x;//食べる量を減らす
-            ktext.text=x.ToString() + "個";
+            ktext.text=x.ToString() + "cans";
         } 
     }
 
@@ -83,12 +83,12 @@ public class EatMainPanel : MonoBehaviour
         //rtext.text = "まんぷくゲージが"+x.ToString()+"回復した！";
         if(x==0)//食べた量が0の時に分岐
         {
-            rtext.text = "何も食べなかった...";
+            rtext.text = "You didn't eat anything.";
         }
         else
         {
-            rtext.text = ("満腹：" + (j - x).ToString() + "→" + j + Environment.NewLine +
-                      "食料の数：" + (i + x).ToString() + "→" + i);
+            rtext.text = ("Full stomach：" + (j - x).ToString() + "→" + j + Environment.NewLine +
+                      "Number of food：" + (i + x).ToString() + "→" + i);
         }
     }
 

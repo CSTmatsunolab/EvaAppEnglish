@@ -57,11 +57,11 @@ public class EndingManagement : MonoBehaviour
             OpenedEvent += int.Parse(Rdata.GetComponent<Result_Data>().ResultData[i+1][1]);
         }
 
-        ResultText.text = "避難所名：" + Pdata.GetComponent<Player_Data>().PlayerData[1][9]+"\n"
-                        + "名前：" + Pdata.GetComponent<Player_Data>().PlayerData[1][10]+"\n"
-                        + "経過日数：" + Pdata.GetComponent<Player_Data>().PlayerData[1][5]+"日"+"\n"
-                        + "イベント開放数：" + OpenedEvent+"\n"
-                        + "最終クイズ正解数：" + (QuizManagement.Send()).ToString()+"問";
+        ResultText.text = "Shelter name：" + Pdata.GetComponent<Player_Data>().PlayerData[1][9]+"\n"
+                        + "Name：" + Pdata.GetComponent<Player_Data>().PlayerData[1][10]+"\n"
+                        + "Days lapsed：" + Pdata.GetComponent<Player_Data>().PlayerData[1][5]+"days"+"\n"
+                        + "Number of events opened：" + OpenedEvent+"\n"
+                        + "Number of correct answers to quiz：" + (QuizManagement.Send()).ToString()+"questions";
         ScoreCalculation();
         ScoreOutput(ScorePoint);
     }
@@ -81,7 +81,7 @@ public class EndingManagement : MonoBehaviour
         Water = Cal(Water);
         OpenedEvent = (OpenedEvent * 100) -300;    //イベントの開放数ぶんスコア100, オープニング+エンディング(スコア200+100)を除く
         ScorePoint = Correct + Manpuku + Stress + Water + OpenedEvent;
-        ScoreText.text = "評価点　"+ScorePoint.ToString();
+        ScoreText.text = "Evaluation point"+ScorePoint.ToString();
     } 
 
     public void CloudPanelClose(){//Cloudパネルの次へボタンを押したときの処理

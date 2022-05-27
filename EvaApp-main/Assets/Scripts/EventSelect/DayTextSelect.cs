@@ -12,18 +12,18 @@ public class DayTextSelect: MonoBehaviour
         GameObject Pdata = GameObject.Find("Player_Data");
         int i = int.Parse(Pdata.GetComponent<Player_Data>().PlayerData[1][6]);
         //昼、夜の判定
-        string time = "昼";
+        string time = "noon";
         if (i == 0)
             {
-                time = "昼";
+                time = "noon";
             }
         else if(i == 1)
             {
-                time = "夜";
+                time = "night";
             }
         // オブジェクトからTextコンポーネントを取得
         Text sta_text = name_object.GetComponent<Text>();
         // テキストの表示を入れ替える
-        sta_text.text = Pdata.GetComponent<Player_Data>().PlayerData[1][5] + "日目" + time;
+        sta_text.text = "Day " + Pdata.GetComponent<Player_Data>().PlayerData[1][5] + " " + time;
     }
 }

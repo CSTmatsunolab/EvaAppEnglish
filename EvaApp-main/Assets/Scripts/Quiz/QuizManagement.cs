@@ -55,7 +55,7 @@ public class QuizManagement : MonoBehaviour
     }
 
     private void NoSet(){
-        QuizNo.text="第"+(no+1).ToString()+"問";
+        QuizNo.text="Question "+(no+1).ToString();
     } 
 
     private void EdataLoad(){
@@ -162,7 +162,7 @@ public class QuizManagement : MonoBehaviour
                 btnimg.sprite = Resources.Load<Sprite>("Sprites/Batsu");
             }
             
-            btntext.text = "第"+(i+1).ToString()+"問："+Edata.GetComponent<Event_Data>().EventData[a[i]][2];
+            btntext.text = "Question"+(i+1).ToString()+"："+Edata.GetComponent<Event_Data>().EventData[a[i]][2];
         }
     }
 

@@ -11,15 +11,15 @@ public class TimeText : MonoBehaviour
     {
         GameObject Pdata = GameObject.Find("Player_Data");
         int i = int.Parse(Pdata.GetComponent<Player_Data>().PlayerData[1][6]);
-        string time = "昼";
+        string time = "noon";
         //昼、夜の判定
         if (i == 0)
             {
-                time = "昼";
+                time = "noon";
             }
         else if(i == 1)
             {
-                time = "夜";
+                time = "night";
             }
         Text TimeText = name_object.GetComponent<Text>();
         TimeText.text = time;

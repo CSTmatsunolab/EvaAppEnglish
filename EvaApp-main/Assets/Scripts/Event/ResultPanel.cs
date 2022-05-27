@@ -95,8 +95,8 @@ public class ResultPanel : MonoBehaviour
         if(index == 54){
             Result1.color = new Color(0.0f, 0.0f, 1.0f, 1.0f); //青
             Result2.color = new Color(0.0f, 0.0f, 1.0f, 1.0f); //青
-            Result1.text = "水が増えた！";
-            Result2.text = "食料が増えた！";
+            Result1.text = "More water bottles!";
+            Result2.text = "More food!";
         }
         else{
             if (HG > HGC)
@@ -124,8 +124,8 @@ public class ResultPanel : MonoBehaviour
                 Result2.color = new Color(0.0f, 0.0f, 0.0f, 1.0f); //黒
             }
             
-            Result1.text = ("満腹ゲージ：" + HG.ToString() + "→" + HGC.ToString());
-            Result2.text = ("安心ゲージ：" + RE.ToString() + "→" + REC.ToString());
+            Result1.text = ("Satiety Gauge：" + HG.ToString() + "→" + HGC.ToString());
+            Result2.text = ("Tranquilizer Gauge：" + RE.ToString() + "→" + REC.ToString());
 
         }
         
