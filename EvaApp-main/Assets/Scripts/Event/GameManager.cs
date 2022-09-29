@@ -380,7 +380,7 @@ public class GameManager : MonoBehaviour
                 Directory.CreateDirectory("Assets/Resources/" + path);
             AssetDatabase.CreateAsset(animation, "Assets/Resources/" + path + "/" + ps[0] + ".anim");
             AssetDatabase.ImportAsset("Assets/Resources/" + path + "/" + ps[0] + ".anim");
-        #elif UNITY_STANDALONE
+        #elif UNITY_STANDALONE || UNITY_IOS || UNITY_ANDROID || UNITY_STANDALONE_OSX  //ビルド時ここに対応させたいプラットフォームを書き込めば、ビルドしてシナリオが読めないということがなくなる。
             animation = prevAnimation;
         #endif
         return Instantiate(animation);

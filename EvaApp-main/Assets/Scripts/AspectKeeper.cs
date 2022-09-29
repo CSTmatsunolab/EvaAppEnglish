@@ -1,36 +1,48 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+public class AspectKeeper : MonoBehaviour{
+private Camera cam;
 
-public class AspectKeeper : MonoBehaviour
-{
-    [SerializeField]
-    private Camera targetCamera; //対象とするカメラ
- 
-    [SerializeField]
-    private Vector2 aspectVec; //目的解像度
-    // Start is called before the first frame update
-    
-    void Update()
-    {
-        var screenAspect = Screen.width / (float)Screen.height; //画面のアスペクト比
-        var targetAspect = aspectVec.x / aspectVec.y; //目的のアスペクト比
+// 固定したい表示サイズ
+private float width = 1080f;
+private float height = 1920f;
 
-        var magRate = targetAspect / screenAspect; //目的アスペクト比にするための倍率
+// 画像のPixel Per Unit
+private float pixelPerUnit = 200f;
 
-        var viewportRect = new Rect(0, 0, 1, 1); //Viewport初期値でRectを作成
+//カメラのSize設定が height / 2 / picelParUnit である必要がある
+//picelParUnitが 200 で height が 1920 なら カメラのサイズは 4.8になる。
 
-        if (magRate < 1)
-        {
-            viewportRect.width = magRate; //使用する横幅を変更
-            viewportRect.x = 0.5f - viewportRect.width * 0.5f;//中央寄せ
-        }
-        else
-        {
-            viewportRect.height = 1 / magRate; //使用する縦幅を変更
-            viewportRect.y = 0.5f - viewportRect.height * 0.5f;//中央余生
-        }
- 
-        targetCamera.rect = viewportRect; //カメラのViewportに適用
+void Awake() {
+    float aspect = (float)Screen.height / (float)Screen.width; //表示画面のアスペクト比
+    float bgAcpect = height / width; //理想とするアスペクト比
+
+    // カメラコンポーネントを取得します
+    cam = GetComponent<Camera>();
+
+    // カメラのorthographicSizeを設定
+    cam.orthographicSize = (height / 2f / pixelPerUnit);
+
+    if (bgAcpect > aspect) {
+        //画面が横に広いとき
+        // 倍率
+        float bgScale = height / Screen.height;
+        // viewport rectの幅
+        float camWidth = width / (Screen.width * bgScale);
+        // viewportRectを設定
+        cam.rect = new Rect((1f - camWidth) / 2f, 0f, camWidth, 1f);
+
+    } else {
+        //画面が縦に長い
+        //想定しているアスペクト比とどれだけ差があるかを出す
+        float bgScale = aspect / bgAcpect;
+
+        // カメラのorthographicSizeを縦の長さに合わせて設定しなおす
+        cam.orthographicSize *= bgScale;
+
+      // viewportRectを設定
+      cam.rect = new Rect(0f, 0f, 1f, 1f);
     }
+}
 }
